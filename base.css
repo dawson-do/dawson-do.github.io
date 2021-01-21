@@ -7,6 +7,9 @@ a {
     text-decoration: none !important;
     transition: color 0.3s;
 }
+p a {
+    box-shadow: 0px -4px 0px #EE91F7 inset;
+}
 a:hover{
   background-color: #EE91F7;
   border-radius: 0;
