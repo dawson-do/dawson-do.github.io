@@ -25,3 +25,18 @@ body {
   margin-bottom: 50px;
   margin-top: 50px;
 }
+
+aside {
+  width: calc(2.5rem * 6 + 3rem);
+  left: 6rem;
+}
+
+aside p {
+  font-weight: 300;
+  font-size: 1.7rem;
+  line-height: 1.4;
+  color: #667;
+  letter-spacing: 0.015em;
+  hyphens: none;
+  font-feature-settings: normal;
+}
