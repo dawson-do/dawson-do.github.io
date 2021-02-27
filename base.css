@@ -29,6 +29,14 @@ body {
 aside {
   width: calc(2.5rem * 6 + 3rem);
   left: 6rem;
+  display: block;
+  float: left;
+  position: absolute;
+  margin-left: 0;
+  text-align: right;
+  list-style-type: none;
+  clear:both;
+  margin-bottom: 1rem;
 }
 
 aside p {
