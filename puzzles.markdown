@@ -7,7 +7,7 @@ permalink: /puzzles/
 During undergraduate, I wrote puzzles for University of Maryland’s Puzzle Club. I became the project lead starting Fall 2019. Nowadays, I’m working on some unaffiliated hunts.
 </p>
 <p>
-  If you are attempting any, feel free to ask me for hints at <a href = "mailto: dawsondo@umd.edu">dawsondo@umd.edu</a>. I can also provide any number of feeder answers to any of the metapuzzles.</p>
+  If you are attempting any, feel free to ask me for hints. I can also provide any number of feeder answers to any of the metapuzzles.</p>
 <h3><a href="http://www.umdpuzzle.club/">UMD Puzzlehunt 2021</a></h3>
 <p>In addition to writing puzzles, I served as the lead editor and contributed ideas to several others (listed with asterisk). I was also responsible for a majority of website operations for this project,  so I encourage you to look at the whole hunt!
 <ul>
