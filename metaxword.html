@@ -2,62 +2,60 @@
 <html>
 <head>
   <title>A Beginner’s Guide to Constructing a Meta-Crossword</title>
-  <link rel="stylesheet" href="/css/special.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@400;700"/>
+  <style>
+  a {
+      color: inherit;
+      box-shadow: 0px -6px 0px #EC90F5 inset;
+      text-decoration: none !important;
+  }
+  li a {
+    text-decoration: underline;
+    box-shadow: none;
+    font-weight: 700;
+    color: #C641F5;
+  }
+  a:hover{
+    transition: color 0.3s;
+    background-color: #EC90F5;
+    border-radius: 0;
+  }
+  body {
+    font-family: 'Source Serif Pro', Helvetica;
+    font-variant-ligatures: none;
+    line-height: 1.5rem;
+    font-size: 1.2rem;
+    max-width: 960px;
+    margin-left: 23%;
+    margin-right: 17%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+  }
+
+  aside {
+    width: calc(2.5rem * 6 + 3rem);
+    left: 6rem;
+    display: block;
+    float: left;
+    position: absolute;
+    margin-left: 0;
+    text-align: right;
+    list-style-type: none;
+    clear:both;
+    margin-bottom: 1rem;
+  }
+
+  aside p {
+    font-weight: 300;
+    font-size: 1.7rem;
+    line-height: 1.4;
+    color: #667;
+    letter-spacing: 0.015em;
+    hyphens: none;
+    font-feature-settings: normal;
+  }
+  </style>
 </head>
-<style>
-a {
-    color: inherit;
-    box-shadow: 0px -6px 0px #EC90F5 inset;
-    text-decoration: none !important;
-}
-li a {
-  text-decoration: underline;
-  box-shadow: none;
-  font-weight: 700;
-  color: #C641F5;
-}
-a:hover{
-  transition: color 0.3s;
-  background-color: #EC90F5;
-  border-radius: 0;
-}
-body {
-  font-family: 'Source Serif Pro', Helvetica;
-  font-variant-ligatures: none;
-  line-height: 1.5rem;
-  font-size: 1.2rem;
-  max-width: 960px;
-  margin-left: 23%;
-  margin-right: 17%;
-  margin-bottom: 50px;
-  margin-top: 50px;
-}
-
-aside {
-  width: calc(2.5rem * 6 + 3rem);
-  left: 6rem;
-  display: block;
-  float: left;
-  position: absolute;
-  margin-left: 0;
-  text-align: right;
-  list-style-type: none;
-  clear:both;
-  margin-bottom: 1rem;
-}
-
-aside p {
-  font-weight: 300;
-  font-size: 1.7rem;
-  line-height: 1.4;
-  color: #667;
-  letter-spacing: 0.015em;
-  hyphens: none;
-  font-feature-settings: normal;
-}
-
-</style>
 <body>
 <h1>A Beginner’s Guide to Constructing a Meta-Crossword</h1>
 <p style="font-size:80%;"><i>This post is written for a university assignment. It may not be kept up-to-date.</i></p>
