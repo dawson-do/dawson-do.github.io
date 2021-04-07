@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I write [puzzles](/puzzles.html)
+I write [puzzles](/puzzles/)
