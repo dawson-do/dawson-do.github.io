@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dawson’s puzzles (selected)
+title: Puzzles (selected)
 permalink: /puzzles/
 ---
 <p>
