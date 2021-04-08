@@ -5,3 +5,30 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+  a {
+      color: inherit;
+      box-shadow: 0px -6px 0px #EC90F5 inset;
+      text-decoration: none !important;
+  }
+  li a {
+    text-decoration: underline;
+    box-shadow: none;
+    font-weight: 700;
+    color: #C641F5;
+  }
+  a:hover{
+    transition: color 0.3s;
+    background-color: #EC90F5;
+    border-radius: 0;
+  }
+  body {
+    font-family: 'Source Serif Pro', Helvetica;
+    font-variant-ligatures: none;
+    line-height: 1.5rem;
+    font-size: 1.2rem;
+    max-width: 960px;
+    margin-left: 23%;
+    margin-right: 17%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+  }
