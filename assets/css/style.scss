@@ -5,13 +5,12 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
-  a {
+  main a {
       color: inherit;
       box-shadow: 0px -6px 0px #EC90F5 inset;
       text-decoration: none !important;
   }
-  li a {
-    text-decoration: underline;
+  main li a {
     box-shadow: none;
     font-weight: 700;
     color: #C641F5;
@@ -29,6 +28,7 @@
     max-width: 960px;
     margin-left: 23%;
     margin-right: 17%;
-    margin-bottom: 50px;
-    margin-top: 50px;
   }
+.site-header{
+  margin-top: 25px;
+}
