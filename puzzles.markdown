@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Puzzles (selected)
+title: Puzzles
 permalink: /puzzles/
 ---
+## (Selected)
 <p>
 During undergraduate, I wrote puzzles for University of Maryland’s Puzzle Club. I became the project lead starting Fall 2019. Nowadays, I’m working on some unaffiliated hunts.
 </p>
