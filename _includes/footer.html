@@ -22,8 +22,8 @@
           {% endif -%}
 
 
-          {% if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {% if site.author.email -%}
+            <li>{{ site.author.email }}</li>
           {%- endif %}
 
         </ul>
