@@ -5,6 +5,7 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
+        <!--
         <p class="feed-subscribe">
           <a href="{{ 'feed.xml' | relative_url }}">
             <svg class="svg-icon orange">
@@ -12,6 +13,7 @@
             </svg><span>Subscribe</span>
           </a>
         </p>
+        -->
       {%- if site.author %}
         <ul class="contact-list">
           <!---
@@ -24,7 +26,7 @@
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
           {%- endif %}
           -->
-          <li>{{ site.author.email }}</li>
+          <li class="p-name">{{ site.author.email | escape}}</li>
         </ul>
       {%- endif %}
       </div>
