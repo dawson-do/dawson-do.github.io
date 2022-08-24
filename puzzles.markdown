@@ -5,10 +5,10 @@ permalink: /puzzles/
 ---
 Here’s a selected list of puzzles that I have written and/or contributed to.
 <p>
-During undergraduate, I wrote puzzles for University of Maryland’s Puzzle Club. I became the project lead starting Fall 2019. Nowadays, I’m working on some unaffiliated hunts.
+During undergraduate, I wrote puzzles for the University of Maryland’s Puzzle Club. I became the project lead starting Fall 2019.
 </p>
 <p>
-  If you are attempting any, feel free to ask me for hints. I can also provide any number of feeder answers to any of the metapuzzles.</p>
+  If you are attempting any, feel free to ask me for hints.</p>
 <h3><a href="http://www.umdpuzzle.club/">UMD Puzzlehunt 2021</a></h3>
 <p>In addition to writing puzzles, I served as the lead editor and contributed ideas to several others (listed with asterisk). I was also responsible for a majority of website operations for this project,  so I encourage you to look at the whole hunt!
 <ul>
