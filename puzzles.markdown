@@ -10,7 +10,7 @@ During undergraduate, I wrote puzzles for the University of Maryland’s Puzzle 
 <p>
   If you are attempting any, feel free to ask me for hints.</p>
 <h3><a href="http://www.umdpuzzle.club/">UMD Puzzlehunt 2021</a></h3>
-<p>In addition to writing puzzles, I served as the lead editor and contributed ideas to several others (listed with asterisk). I was also responsible for a majority of website operations for this project,  so I encourage you to look at the whole hunt!
+<p>In addition to writing puzzles, I served as the lead editor and contributed ideas to several others (listed with an asterisk). I was also responsible for a majority of website operations for this project,  so I encourage you to look at the whole project.
 <ul>
   <li><a href="https://www.umdpuzzle.club/puzzle/natural-history">National Museum of Natural History</a></li>
   <li><a href="https://www.umdpuzzle.club/puzzle/african-american-history">National Museum of African American History and Culture</a></li>
