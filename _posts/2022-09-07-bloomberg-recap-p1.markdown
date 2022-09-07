@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bpuzzled Recap Part 1: 2019-2020"
-date:   2022-09-07 16:42:49 -0400
+date:   2022-09-07 15:42:49 -0400
 categories: puzzle
 published: true
 ---
@@ -16,7 +16,7 @@ Since Bpuzzled is exclusive to college students and the finals is exclusive to e
 ## Bpuzzled UMD
 Even without too much solving experience, I was pretty confident that I could win against other UMD students. I solved with Josh and Ryan, other UMD Puzzlehunt writers and some of my regular team members for online hunts. We also had Steven, a close friend who frequently attended UMD Puzzle Club meetings.
 
-Bpuzzled is only live for three hours, so a lot of it was a blur (I'm also writing this in three years later), but I'll try to recap my solving experience and the puzzles. 
+Bpuzzled is only live for three hours, so a lot of it was a blur (I'm also writing this in three years later), but I'll try to recap my solving experience and the puzzles.
 
 ## Bpuzzled Finals
 
