@@ -49,7 +49,9 @@ We finally finished the meta after what seemed like an eternity and placed secon
 ## Retrospective
 Honestly, I was pretty salty that we placed second, and not just because the prize for first place was a Nintendo Switch. Even though I didn't go in thinking we'd get first, being so close to first made it slightly more painful. It was pretty regretful missing the meta and not thinking about it right as we unlocked it (if not before), a hard lesson learned.
 
-Overall, the event was really fun. After the event, they fed us dinner, provided us with drinks, and gave us a tour of the office building. This is all way more effort for what is essentially a recruiting event than I would ever expect. Plus, the puzzles were definitely decent and fairly written. After the event, my team visited the MOMA, caught our train back to Maryland the next day, and anticipated next year's Bpuzzled events.
+I know first hand that running any puzzle hunt takes a ton of passion and effort, probably much more than a typical recruiting event, so Bpuzzled really exceeded my expectations. Especially because the puzzles were definitely decent and fairly written. While you could always expect the common encodings to be used and the mechanics to be pretty simple, I think the puzzles are pretty good for getting beginners into these events. Out of these two events, Ocean Operation and Alphabet Soup Kitchen were the most memorable puzzles for me. I think the writing team does a pretty good job accounting for the target audience, as both the generous answer checker and flood of hints ensures that people actually finish and aren't stuck forever.
+
+Overall, the event was really fun, despite getting silver. After the event, they fed us a lot of dinner, provided us with drinks, and gave us a tour of the office building. After the event, my team visited the MOMA, caught our train back to Maryland the next day, and anticipated next year's Bpuzzled events.
 
 [^1]: My team was Duck Gizzards for these events.
 [^2]: During the 2019-2020 year, there was a separate division for EMEA region schools, too.
