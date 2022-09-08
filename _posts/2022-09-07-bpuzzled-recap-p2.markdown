@@ -7,7 +7,7 @@ published: true
 ---
 In [Part 1][part-1], I wrote about what Bpuzzled even is and my experience the first year it was hosted.
 ## Nov 13: Bpuzzled UMD
-The pandemic happened, so I wasn't hopeful that I would win another trip to New York, but was nonetheless excited when I learned Bpuzzled would still happen. After doing tons of puzzle hunts from that spring until fall, I felt way more confident than last year. As Duck Gizzards, we started doing pretty well in online hunts and during my last year at UMD, I expected to have a shot at taking first at Bpuzzled.
+The pandemic happened, so I wasn't hopeful that I would win another trip to New York, but was nonetheless excited when I learned Bpuzzled would still happen. After doing tons of puzzle hunts from that spring until fall, I felt way more confident than before. Duck Gizzards started doing pretty well in online hunts, so during my final year at UMD, I expected to have a shot at taking first at Bpuzzled.
 
 This year, Josh and Steven returned as team members, while Grant (another UMD Puzzlehunt writer and regular hunt teammate) took Ryan's spot, since he graduated. This year the format was the same: you initially start with three puzzles and unlock one more for every solve. The answer checker confirms partials (and more), and you are given canned hints every 10 minutes after the puzzle is unlocked. There would be eight puzzles and a metapuzzle that you would have to solve in the 3-hour time limit.
 ### Puzzles
