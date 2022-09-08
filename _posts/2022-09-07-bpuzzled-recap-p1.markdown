@@ -55,4 +55,4 @@ Overall, the hunt was really fun, despite getting second. They fed us a lot of d
 [^1]: My team was Duck Gizzards for these events.
 [^2]: During the 2019-2020 year, there was a separate division for EMEA region schools, too.
 [^3]: I think Bloomberg's Summer of Puzzles 2020 ended up reusing the Bpuzzled finals puzzles.
-[part-2]: https://www.dawsondo.net/puzzle/2022/09/08/bpuzzled-recap-p2.html
+[part-2]: https://www.dawsondo.net/puzzle/2022/09/07/bpuzzled-recap-p2.html
