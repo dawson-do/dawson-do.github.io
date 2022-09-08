@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "Bpuzzled Recap Part 2: 2020-2021"
-date:   2022-09-08 16:42:49 -0400
+date:   2022-09-07 16:42:49 -0400
 categories: puzzle
 published: true
 ---
 In [Part 1][part-1], I wrote about what Bpuzzled even is and my experience the first year it was hosted.
-
 ## Nov 13: Bpuzzled UMD
 The pandemic happened, so I wasn't hopeful that I would win another trip to New York, but was nonetheless excited when I learned Bpuzzled would still happen. After doing tons of puzzle hunts from that spring until fall, I felt way more confident than last year. As Duck Gizzards, we started doing pretty well in online hunts and during my last year at UMD, I expected to have a shot at taking first at Bpuzzled.
 
