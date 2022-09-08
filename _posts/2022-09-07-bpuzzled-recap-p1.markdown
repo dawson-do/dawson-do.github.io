@@ -37,7 +37,6 @@ After solving Boat Tour and Separated, we unlocked Brazilian Bricklayers and Pat
 With the meta solve, we got first place in about 1 hour and 45 minutes. We had some now-cold pizza and waited for the event to finish. If you weren't keeping track, the total puzzle count was 8 feeders and 1 meta.
 ## Feb 21: Bpuzzled Finals
 Bloomberg provided the four of us with Amtrak tickets to New York City and individual hotel rooms for two nights. The day of the competition, we walked to the Bloomberg office where they held all of the students in a large room, each team given their own table. Between the UMD event and finals, I participated in my first Mystery Hunt and MLP: Puzzles are Magic. I certainly felt it was possible to win, but not very confident seeing students from other schools that I thought would be competitive.
-
 ### Puzzles
 The format was similar to the first event. We first unlocked Student Exchange, A Nutritious Meal, and One Koi Two Koi. I ended up jumping into One Koi Two Koi, while the rest of my team did parts of A Nutritious Meal, an virtual jigsaw puzzle. I ended up staring at my puzzle for way too long and waited for hints while help my team finish off their puzzle. One Koi Two Koi was a book that consisted of three types of fish-themed subpuzzles on each page. Eventually with enough of the canned hints I solved One Koi Two Koi, while Josh completed Student Exchange.
 
