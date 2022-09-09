@@ -7,8 +7,12 @@
   "minima/initialize";
   main a {
     color: $text-color;
-      box-shadow: 0px -6px 0px #EC90F5 inset;
-      text-decoration: none !important;
+    box-shadow: 0px -6px 0px #EC90F5 inset;
+    text-decoration: none !important;
+  }
+
+  main a:visited {
+    color: $text-color;
   }
 
   main sup a {
