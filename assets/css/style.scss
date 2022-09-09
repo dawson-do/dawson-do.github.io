@@ -6,10 +6,18 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
   main a {
+    color: $text-color;
       box-shadow: 0px -6px 0px #EC90F5 inset;
       text-decoration: none !important;
   }
+
+  main sup a {
+    color: $link-base-color;
+    box-shadow: none;
+  }
+
   main li a {
+    color: $link-base-color;
     box-shadow: none;
     font-weight: 700;
   }
