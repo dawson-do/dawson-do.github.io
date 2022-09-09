@@ -51,7 +51,9 @@ At the time, I was pretty salty that we placed second, and not just because the 
 I know first hand that running any puzzle hunt takes a ton of passion and effort, probably much more than a typical recruiting event, so Bpuzzled really exceeded my expectations. Especially because the puzzles were definitely decent and written fairly. While you could always expect to see the common encodings and pretty simple mechanics, I think the puzzles are pretty good for getting beginners into puzzles. Out of these two events, Ocean Operation and Alphabet Soup Kitchen were the most memorable puzzles for me. Ocean Operation had some neat math while Alphabet Soup Kitchen was pretty well-constructed. I think the writing team does a pretty good job accounting for the target audience, as both the generous answer checker and flood of hints ensures that people actually finish and aren't stuck forever.
 
 Overall, the hunt was really fun, despite getting second. They fed us a lot of dinner (more pizza, plus other things), provided us with drinks, and gave us a tour of the office building. After the event, my team visited the MOMA, caught our train back to Maryland the next day, and anticipated [next year's Bpuzzled events][part-2].
-***
+
+___________________
+
 [^1]: My team was Duck Gizzards for these events.
 [^2]: During the 2019-2020 year, there was a separate division for EMEA region schools, too.
 [^3]: I think Bloomberg's Summer of Puzzles 2020 ended up reusing the Bpuzzled finals puzzles.
