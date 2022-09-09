@@ -6,19 +6,27 @@ categories: puzzle
 published: true
 ---
 In [Part 1][part-1], I wrote about what Bpuzzled even is and my experience the first year it was hosted. Because the puzzles were never made public, I can't link to them and won't reproduce them here. I kept an archive, so ask me if you're curious about them.
+
 ## Nov 13: Bpuzzled UMD
+
 The pandemic happened, so I wasn't hopeful that I would win another trip to New York City, but was nonetheless excited when I learned Bpuzzled would return. After doing many puzzle hunts from that spring until fall, I felt way more confident than before. Duck Gizzards, an essentially all-UMD student team, started doing pretty decently in online hunts, so I expected to have a shot at taking first at Bpuzzled. It was also my final year at UMD, so there wouldn't be another chance.
 
 This year, Josh and Steven returned as team members, while Grant (another UMD Puzzlehunt writer and regular Duck Gizzards teammate) took Ryan's spot, since he graduated. This year the format was the same: you initially start with three puzzles and unlock one more for every solve. The answer checker confirms partials (and more), and you are given canned hints every 10 minutes after the puzzle is unlocked. There would be eight puzzles and a metapuzzle that you would have to solve in the 3-hour time limit.
+
 ### Puzzles
+
 Steven and I got to work on Step by Steppe, which was a simple criss-cross puzzle where each entry was a pair of homophones. On this puzzle I used the answer checker a lot to confirm my entries. Josh completed Dance Like an Egyptian, a puzzle visually cluing famous dances (e.g. YMCA and the Moonwalk), while Grant got started on Rogue Gallery, where he jotted down some mashed up the names of paintings and Batman villains. I joined him, helping ID the villains, but got stuck on the extraction, so we moved on to another puzzle, waiting for the canned hints to come along.
 
 I started to work on Spill the Tea with Grant while Josh and Steven worked on Textris. Spill the Tea clued the names of Drag Queens using some descriptions written like they were for tea. At some point, I returned to Rogue Gallery to finish off the extraction, which unlocked Mirror Mishap. After completing Spill the Tea and Textris, we unlocked Grinding Your Teeth and Plant One. Grant already started working on Mirror Mishap, so I started working on Grinding Your Teeth, a word puzzle with letters placed on the teeth of various gears.
 
 Some time while I was working on Grinding Your Teeth, my teammates solved Mirror Mishap and we unlocked the metapuzzle. I dropped my puzzle---I could already tell it'd take too long---and went to look at the meta. The puzzle gave you a grid which was a key for a pigpen-like cipher (clearly inspired by pigpen, but it was their own custom code). Each answer was seven letters long, and the presentation suggested that the letters at each index were assigned a color from `ROYGBIV`. Then you needed to color in the given grid of letters and decode the shapes using their cipher. We didn't take too long to figure out the meta, but with two missing answers, it took us some time fiddling around to get the answer to fall out. With the solve in about 2 hours, we punched our ticket to the virtual Bpuzzled finals.
+
 ## Feb 26: Bpuzzled Finals
+
 The hosts started by sending everyone a Zoom meeting link, and during the competition they would send every team into a breakout room (although my team ended up hopping into a Discord call). All I could see were some names, so I couldn't really get a sense of which schools were there or how many teams there were. Writing team introduced themselves for a little bit, showed us the instruction video that outlined the format, and sent us off to our breakout rooms.
+
 ### Puzzles
+
 The first three puzzles were Bonds of the Heart, Coaster Connection, and Headlines. I started to work on Headlines with Grant, solving clues that gave words that either had the substring `HEAD` or `LINE`. After an indexing step, we finished and were off to start Bonds of the Heart. My teammates working on Coaster Connection started filling out the crossword clues, but ended up getting stuck on the extraction. I told them to move on to the new puzzle, Color Filter Tester, while waiting for the canned hints to come up. Coaster Connection ended up wanting us to write letters rotated (as if they were aligned to a rollercoaster track), which we completely missed even though it was heavily clued by the presentation. We were still leading, so I wasn't really concerned.
 
 Bonds of the Heart gave a word search grid with rows that you had to reorganize. The given left-most column gave a cluephrase, and implied the right-most column would do the same. From here I threw the letters into an anagram solver and was able to mostly reconstruct the grid. In the word search, you found words (which were clued) that were parts of sets of things that included hearts---`SPADE`, `DIAMOND`, and `CLUB` for example. Then you would find the names of each set in the grid, pointing you to the answer.
@@ -28,7 +36,9 @@ Grant started helping with Color Filter Tester as we unlocked Shooting Hoops. St
 Meanwhile, my teammates solved Color Filter Tester, a puzzle about removing letters from words using certain sets of letters (e.g. Roman Numerals). They also started working on Homemade Caesar Salad right after, which was a criss-cross. I helped my teammates figure out the extraction, which that involved Caesar shifting some letters by resistor colors, which could be related to cutting board colors. Some teammates started working on the last two puzzles, Prank Bit Shank Fit Fishtank and Double Vision, a wordplay puzzle and a Pokémon puzzle, but when we solved Homemade Caesar Salad, we all jumped to the metapuzzle.
 
 The metapuzzle was mostly pure, the shell provided an order but there was not other info given throughout the solving. I didn't figure anything about the feeders before we unlocked the meta, so I tried to scan the flavortext for any possible clues. My teammates also stared for a while and I started googling words in the flavortext and guessing related terms to see if the answer checker could bail me out. And it did. It confirmed a subanswer that I was meant to extract out of a feeder, giving me all the context I needed to piece the mechanic together. For each answer, you could replace a letter with `KEY`, to form a word. We extracted, giving us a link to a final clue. Solving this gave us the final answer and secured a first place finish in about 1 hour and 45 minutes.
+
 ## Retrospective
+
 After finishing, we waited for the competition to end. Solving the meta locked us out of the puzzle page, so we couldn't see the leaderboard anymore and watch other teams progress. A member of the writing team hopped into our breakout room to congratulate us and give us a choice among a selection of prizes (we all took the Nintendo Switches). When the competition ended, they had a short ceremony announcing the prize winners, followed by an author Q&A session.
 
 Similar to the previous year, I thought the puzzles were decent. The meta for the finals was clean and there weren't any puzzles I was unhappy about. During the finals they started to rely on the answer checker a bit too much to clarify some unclear steps (many weren't your typical sparse "Keep Going!", but more descriptive). However, within the context of a hunt aimed at beginners, it worked for Bpuzzled.
@@ -36,7 +46,9 @@ Similar to the previous year, I thought the puzzles were decent. The meta for th
 Recruiting event puzzle hunts are naturally limited in their scope, since their audience is mostly people unfamiliar with puzzle hunts. Thus, the puzzles end up pretty tropey at best, relying on codes and ciphers, or unfair and frustrating at worst, if written by an equally inexperienced team. However, they do serve as an introduction to puzzle hunts for many students, occupying a specific niche, despite being unavailable to the general public. I've been pretty invested in the topic of writing "beginner" puzzles ever since writing for UMD Puzzlehunt, so it's also interesting to study how the runners of these events approach writing a puzzle hunt for beginners, even if they mostly end up using overdone mechanics. I hope these events continue to get support from the companies that sponsor them, since they can really benefit the hobby.
 
 Thanks for reading this two-part post about some hunts you didn't do. Here's a bonus:
+
 ## Bonus: APT/Mastercard Puzzle Tournament
+
 I'm not sure when the first one was, but Applied Predictive Technologies (APT) also held puzzle hunts for college students. In 2019, this became the Mastercard Puzzle Tournament (after APT was acquired). These were competitions only between teams within a school, and I never kept the earlier puzzles, so there isn't much I remember about them other than doing really poorly my first two years. They didn't hold a competition in 2020, but in 2021 they held a virtual event where it *was* a competition with other schools. I did keep these puzzles, since it was a pdf.
 
 I don't think this event was well-advertised to other schools, since the pool of colleges and teams was pretty small. I ended up teaming with Josh and Jesse (a friend who had done puzzles before, but doesn't do them as frequently).
