@@ -15,6 +15,14 @@
     color: $text-color;
   }
 
+  .reversefootnote {
+    color: $link-base-color
+  }
+
+  .reversefootnote:visited {
+    color: $link-base-color
+  }
+
   main sup a {
     color: $link-base-color;
     box-shadow: none;
