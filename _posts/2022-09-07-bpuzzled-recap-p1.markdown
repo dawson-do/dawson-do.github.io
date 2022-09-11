@@ -62,7 +62,7 @@ I worked with Josh on Alphabet Soup Kitchen, which was easily the largest puzzle
 We finally finished the meta after what seemed like an eternity and placed second, for which the prize was a $50 Chipotle gift card.
 
 <figure>
-  <img src="{{site.url}}/assets/images/bpuzzled/teamphoto.jpg" alt="Team photo"/>
+  <img src="{{site.url}}/assets/images/bpuzzled/teamphoto.jpg" alt="Team photo"  width="75%"/>
   <figcaption>From left to right: Steven, me, Josh, and Ryan during the Bloomberg office tour</figcaption>
 </figure>
 

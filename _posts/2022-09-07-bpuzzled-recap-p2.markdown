@@ -17,14 +17,14 @@ This year, Josh and Steven returned as team members, while Grant (another UMD Pu
 
 <figure>
   <img src="{{site.url}}/assets/images/bpuzzled/dance.png" alt="A clue for a dance"/>
-  <figcaption>An clue from Dance Like an Egyptian</figcaption>
+  <figcaption>A clue from Dance Like an Egyptian</figcaption>
 </figure>
 
 Steven and I got to work on Step by Steppe, which was a simple criss-cross puzzle where each entry was a pair of homophones. On this puzzle I used the answer checker a lot to confirm my entries. Josh completed Dance Like an Egyptian, a puzzle visually cluing famous dances (e.g. YMCA and the Moonwalk), while Grant got started on Rogue Gallery, where he jotted down some mashed up the names of paintings and Batman villains. I joined him, helping ID the villains, but got stuck on the extraction, so we moved on to another puzzle, waiting for the canned hints to come along.
 
 <figure>
-  <img src="{{site.url}}/assets/images/bpuzzled/rogues.png" alt="A painting from Rogue's Gallery"/>
-  <figcaption>One painting from Rogue's Gallery and it's enumeration at the bottom</figcaption>
+  <img src="{{site.url}}/assets/images/bpuzzled/rogues.png" alt="A painting from Rogue's Gallery"  width="50%"/>
+  <figcaption>One painting from Rogue's Gallery and the enumeration of the solution at the bottom</figcaption>
 </figure>
 
 I started to work on Spill the Tea with Grant while Josh and Steven worked on Textris. Spill the Tea clued the names of Drag Queens using some descriptions written like they were for tea. At some point, I returned to Rogue Gallery to finish off the extraction, which unlocked Mirror Mishap. After completing Spill the Tea and Textris, we unlocked Grinding Your Teeth and Plant One. Grant already started working on Mirror Mishap, so I started working on Grinding Your Teeth, a word puzzle with letters placed on the teeth of various gears.
