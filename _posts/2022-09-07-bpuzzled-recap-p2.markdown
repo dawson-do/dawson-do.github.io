@@ -9,13 +9,23 @@ In [Part 1][part-1], I wrote about what Bpuzzled even is and my experience the f
 
 ## Nov 13: Bpuzzled UMD
 
-The pandemic happened, so I wasn't hopeful that I would win another trip to New York City, but was nonetheless excited when I learned Bpuzzled would return. After doing many puzzle hunts from that spring until fall, I felt way more confident than before. Duck Gizzards, an essentially all-UMD student team, started doing pretty decently in online hunts, so I expected to have a shot at taking first at Bpuzzled. It was also my final year at UMD, so there wouldn't be another chance.
+The pandemic happened, so I wasn't hopeful that I would win another trip to New York City, but was nonetheless surprised when I learned Bpuzzled would return. After doing many puzzle hunts from that spring until fall, I felt way more confident than before. Duck Gizzards, an essentially all-UMD student team, started doing pretty decently in online hunts, so I expected to have a shot at taking first at Bpuzzled. It was also my final year at UMD, so there wouldn't be another chance.
 
-This year, Josh and Steven returned as team members, while Grant (another UMD Puzzlehunt writer and regular Duck Gizzards teammate) took Ryan's spot, since he graduated. This year the format was the same: you initially start with three puzzles and unlock one more for every solve. The answer checker confirms partials (and more), and you are given canned hints every 10 minutes after the puzzle is unlocked. There would be eight puzzles and a metapuzzle that you would have to solve in the 3-hour time limit.
+This year, Josh and Steven returned as team members, while Grant (another UMD Puzzlehunt writer and regular Duck Gizzards teammate) took Ryan's spot, since he graduated. The format was the same: you initially start with three puzzles and unlock one more for every solve. The answer checker confirms partials (and more), and you are given canned hints every 10 minutes after the puzzle is unlocked. There would be 8 puzzles and 1 metapuzzle that you would have to solve in the 3-hour time limit.
 
 ### Puzzles
 
+<figure>
+  <img src="{{site.url}}/assets/images/bpuzzled/dance.png" alt="A clue for a dance"/>
+  <figcaption>An clue from Dance Like an Egyptian</figcaption>
+</figure>
+
 Steven and I got to work on Step by Steppe, which was a simple criss-cross puzzle where each entry was a pair of homophones. On this puzzle I used the answer checker a lot to confirm my entries. Josh completed Dance Like an Egyptian, a puzzle visually cluing famous dances (e.g. YMCA and the Moonwalk), while Grant got started on Rogue Gallery, where he jotted down some mashed up the names of paintings and Batman villains. I joined him, helping ID the villains, but got stuck on the extraction, so we moved on to another puzzle, waiting for the canned hints to come along.
+
+<figure>
+  <img src="{{site.url}}/assets/images/bpuzzled/rogues.png" alt="A painting from Rogue's Gallery"/>
+  <figcaption>One painting from Rogue's Gallery and it's enumeration at the bottom</figcaption>
+</figure>
 
 I started to work on Spill the Tea with Grant while Josh and Steven worked on Textris. Spill the Tea clued the names of Drag Queens using some descriptions written like they were for tea. At some point, I returned to Rogue Gallery to finish off the extraction, which unlocked Mirror Mishap. After completing Spill the Tea and Textris, we unlocked Grinding Your Teeth and Plant One. Grant already started working on Mirror Mishap, so I started working on Grinding Your Teeth, a word puzzle with letters placed on the teeth of various gears.
 
@@ -23,7 +33,7 @@ Some time while I was working on Grinding Your Teeth, my teammates solved Mirror
 
 ## Feb 26: Bpuzzled Finals
 
-The hosts started by sending everyone a Zoom meeting link, and during the competition they would send every team into a breakout room (although my team ended up hopping into a Discord call). All I could see were some names, so I couldn't really get a sense of which schools were there or how many teams there were. Writing team introduced themselves for a little bit, showed us the instruction video that outlined the format, and sent us off to our breakout rooms.
+The hosts started by sending everyone a Zoom meeting link, and during the competition they would split every team into a breakout room (although my team ended up hopping into a Discord call). All I could see were some names, so I couldn't really get a sense of which schools were there or how many teams there were. The writing team introduced themselves for a little bit, showed us the instruction video that outlined the format, and sent us off to our breakout rooms.
 
 ### Puzzles
 
@@ -39,9 +49,9 @@ The metapuzzle was mostly pure, the shell provided an order but there was not ot
 
 ## Retrospective
 
-After finishing, we waited for the competition to end. Solving the meta locked us out of the puzzle page, so we couldn't see the leaderboard anymore and watch other teams progress. A member of the writing team hopped into our breakout room to congratulate us and give us a choice among a selection of prizes (we all took the Nintendo Switches). When the competition ended, they had a short ceremony announcing the prize winners, followed by an author Q&A session.
+After finishing, we waited for the competition to end. Solving the meta locked us out of the puzzle page, so we couldn't see the leaderboard anymore to watch other teams progress. A member of the writing team hopped into our breakout room to congratulate us and give us a choice among a selection of prizes (we all took the Nintendo Switches). When the competition ended, they had a short ceremony announcing the prize winners, followed by an author Q&A session.
 
-Similar to the previous year, I thought the puzzles were decent. The meta for the finals was clean and there weren't any puzzles I was unhappy about. During the finals they started to rely on the answer checker a bit too much to clarify some unclear steps (many weren't your typical sparse "Keep Going!", but more descriptive). However, within the context of a hunt aimed at beginners, it worked for Bpuzzled.
+Similar to the previous year, I thought the puzzles were decent. The meta for the finals was clean and there weren't any puzzles I was unhappy about. During the finals they started to rely on the answer checker a bit too much to clarify some unclear steps (many weren't your typical sparse "Keep Going!", but more descriptive). However, within the context of a hunt aimed at beginners, it worked for Bpuzzled. On a separate note, many of these puzzles from both years incorporate significant amounts of art, which I really like because it prevents all the puzzles from looking plain or uniform.
 
 Recruiting event puzzle hunts are naturally limited in their scope, since their audience is mostly people unfamiliar with puzzle hunts. Thus, the puzzles end up pretty tropey at best, relying on codes and ciphers, or unfair and frustrating at worst, if written by an equally inexperienced team. However, they do serve as an introduction to puzzle hunts for many students, occupying a specific niche, despite being unavailable to the general public. I've been pretty invested in the topic of writing "beginner" puzzles ever since writing for UMD Puzzlehunt, so it's also interesting to study how the runners of these events approach writing a puzzle hunt for beginners, even if they mostly end up using overdone mechanics. I hope these events continue to get support from the companies that sponsor them, since they can really benefit the hobby.
 
@@ -49,11 +59,11 @@ Thanks for reading this two-part post about some hunts you didn't do. Here's a b
 
 ## Bonus: APT/Mastercard Puzzle Tournament
 
-I'm not sure when the first one was, but Applied Predictive Technologies (APT) also held puzzle hunts for college students. In 2019, this became the Mastercard Puzzle Tournament (after APT was acquired). These were competitions only between teams within a school, and I never kept the earlier puzzles, so there isn't much I remember about them other than doing really poorly my first two years. They didn't hold a competition in 2020, but in 2021 they held a virtual event where it *was* a competition with other schools. I did keep these puzzles, since it was a pdf.
+I'm not sure when the first one was, but Applied Predictive Technologies (APT) also held puzzle hunts for college students. In 2019, this became the Mastercard Puzzle Tournament (after APT was acquired). These were competitions only between teams within a school, and I never kept the earlier puzzles, so there isn't much I remember about them other than doing really poorly my first two years. They didn't hold a competition in 2020, but in 2021 they held a virtual event where it *was* a competition with other schools. I did keep these puzzles, since it was a PDF.
 
 I don't think this event was well-advertised to other schools, since the pool of colleges and teams was pretty small. I ended up teaming with Josh and Jesse (a friend who had done puzzles before, but doesn't do them as frequently).
 
-Since this hunt was just a given pdf, I started by staring at the meta puzzle page for the first few minutes. There were 12 feeder puzzles, each marked with a difficulty level, so we all started working independently. I looked for the easy pickings, first working on Time to Escape, a standard semaphore puzzle and Pizza Pi, a puzzle that had you manipulate tangram pieces. I printed out Puzzle Pi and spent most of my time trying to recall that they were called "tangrams," so I could google the shape formations. Jesse started working on Five Fillings, which had a word bank of words minus their vowels. I hopped in to help figure out that the extraction involved binary. Josh worked on Chopped, a puzzle cluing fruits and vegetable puns. Then we worked on Hot Cross Puns, another pun puzzle that had us enter the words in a criss-cross and solve for the extract positions using minesweeper clues.
+Since this hunt was just given as a PDF, I started by staring at the meta puzzle page for the first few minutes. There were 12 feeder puzzles, each marked with a difficulty level, so we all started working independently. I looked for the easy pickings, first working on Time to Escape, a standard semaphore puzzle and Pizza Pi, a puzzle that had you manipulate tangram pieces. I printed out Puzzle Pi and spent most of my time trying to recall that they were called "tangrams," so I could google the shape formations. Jesse started working on Five Fillings, which had a bank of words minus their vowels. I hopped in to help figure out that the extraction involved binary and went back to looking at the untouched puzzles. Josh worked on Chopped, a puzzle cluing fruits and vegetable puns. Then we worked on Hot Cross Puns, another pun puzzle that had us enter the words in a criss-cross and solve for the extract positions using minesweeper clues.
 
 Jesse moved on to do Note-o-gram, a nonogram, and Josh started on Labyrinth, a puzzle where given some images of the interior, you had to spatially orient a 3D sketch of a house. I thought this one was pretty unique, since it was essentially a visual logic puzzle. I went to look at the metapuzzle with 5/12 answers and was able to make headway, placing our answers on the given grid. Josh solved Labyrinth and gave me just enough letters I needed to pull out the answer.
 
