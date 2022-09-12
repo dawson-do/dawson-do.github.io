@@ -23,7 +23,7 @@ This year, Josh and Steven returned as team members, while Grant (another UMD Pu
 Steven and I got to work on Step by Steppe, which was a simple criss-cross puzzle where each entry was a pair of homophones. On this puzzle I used the answer checker a lot to confirm my entries. Josh completed Dance Like an Egyptian, a puzzle visually cluing famous dances (e.g. YMCA and the Moonwalk), while Grant got started on Rogue Gallery, where he jotted down some mashed up the names of paintings and Batman villains. I joined him, helping ID the villains, but got stuck on the extraction, so we moved on to another puzzle, waiting for the canned hints to come along.
 
 <figure>
-  <img src="{{site.url}}/assets/images/bpuzzled/rogues.png" alt="A painting from Rogue's Gallery"  width="50%"/>
+  <img src="{{site.url}}/assets/images/bpuzzled/rogues.png" alt="A painting from Rogue's Gallery"  width="75%"/>
   <figcaption>One painting from Rogue's Gallery and the enumeration of the solution at the bottom</figcaption>
 </figure>
 
