@@ -5,13 +5,13 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
-  main p+a {
+  p+a {
     color: $text-color;
     box-shadow: 0px -6px 0px #EC90F5 inset;
     text-decoration: none !important;
   }
 
-  main p+a:visited {
+  p+a:visited {
     color: $text-color;
   }
 
@@ -23,16 +23,16 @@
     color: $link-base-color
   }
 
-  a .footnote {
+  .footnote {
     color: $link-base-color;
     box-shadow: none;
   }
 
-  a .footnote:visited {
+  .footnote:visited {
     color: $link-base-color;
   }
 
-  main li a {
+  li+a {
     color: $link-base-color;
     box-shadow: none;
     font-weight: 700;
