@@ -17,8 +17,7 @@ layout: default
           {{ mdate | date: date_format }}
         </time>
       {%- endif -%}
-      {% assign wordCount = post.content | number_of_words %}
-      • {{ wordCount | append: " words" }}
+      {{ page.content | number_of_words }}
       {%- if page.author -%}
         • {% for author in page.author %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
