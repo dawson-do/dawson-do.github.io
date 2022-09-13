@@ -3,14 +3,22 @@ layout: page
 title: Puzzles
 permalink: /puzzles/
 ---
+Puzzle hunts are one of my main hobbies.
+
+Here's a list of my puzzle-related blog posts:
+
+* Bloomberg Bpuzzled [Part 1][bpuzzled-1] & [Part 2][bpuzzled-2]
+
 Here’s a selected list of puzzles that I have written and/or contributed to.
-<p>
+
 During undergraduate, I wrote puzzles for the University of Maryland’s Puzzle Club. I became the project lead starting Fall 2019.
-</p>
-<p>
-  If you are attempting any, feel free to ask me for hints.</p>
-<h3><a href="http://2021.umdpuzzle.club/">UMD Puzzlehunt 2021</a></h3>
-<p>In addition to writing puzzles, I served as the lead editor and contributed ideas to several others (listed with an asterisk). I was also responsible for a majority of website operations for this project,  so I encourage you to look at the whole project.
+
+
+If you are attempting any, feel free to ask me for hints.
+
+##[UMD Puzzlehunt 2021][umdpuzzle]
+
+In addition to writing puzzles, I served as the lead editor and contributed ideas to several others (listed with an asterisk). I was also responsible for a majority of website operations for this project,  so I encourage you to look at the whole project.
 <ul>
   <li><a href="https://2021.umdpuzzle.club/puzzle/natural-history">National Museum of Natural History</a></li>
   <li><a href="https://2021.umdpuzzle.club/puzzle/african-american-history">National Museum of African American History and Culture</a></li>
@@ -41,3 +49,7 @@ During undergraduate, I wrote puzzles for the University of Maryland’s Puzzle 
 </p>
 <h3><a href="https://drive.google.com/drive/folders/1aHD4BWdTpdRAOn7aeA9icxIRUr_ORsgh">UMD Puzzlehunt Spring 2019: Clues to the Cosmos</a></h3>
 <h3><a href="https://drive.google.com/drive/folders/17BFiIPvTRPqBFKyh74vmUrjn0T8YMXuF">UMD Puzzlehunt 2018: It’s Lit</a></h3>
+
+[bpuzzled-1]: https://www.dawsondo.net/puzzle/2022/09/07/bpuzzled-recap-p1.html
+[bpuzzled-2]: https://www.dawsondo.net/puzzle/2022/09/07/bpuzzled-recap-p2.html
+[umdpuzzle]: https://2021.umdpuzzle.club/
