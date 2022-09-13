@@ -3,7 +3,7 @@ layout: page
 title: Puzzles
 permalink: /puzzles/
 ---
-Puzzle hunts are one of my main hobbies.
+Puzzle hunts are one of my main hobbies. These types of puzzles are hard to define, but a common thread is that they don't come with clear instructions. You are presented *something* and need to figure out how to solve it, typically resulting in an English word or phrase. [This post][puzzle-intro] gives a much better introduction than I can.
 
 Here's a list of my puzzle-related blog posts:
 
@@ -16,7 +16,7 @@ During undergraduate, I wrote puzzles for the University of Maryland’s Puzzle 
 
 If you are attempting any, feel free to ask me for hints.
 
-##[UMD Puzzlehunt 2021][umdpuzzle]
+### [UMD Puzzlehunt 2021][umdpuzzle]
 
 In addition to writing puzzles, I served as the lead editor and contributed ideas to several others (listed with an asterisk). I was also responsible for a majority of website operations for this project,  so I encourage you to look at the whole project.
 <ul>
@@ -50,6 +50,7 @@ In addition to writing puzzles, I served as the lead editor and contributed idea
 <h3><a href="https://drive.google.com/drive/folders/1aHD4BWdTpdRAOn7aeA9icxIRUr_ORsgh">UMD Puzzlehunt Spring 2019: Clues to the Cosmos</a></h3>
 <h3><a href="https://drive.google.com/drive/folders/17BFiIPvTRPqBFKyh74vmUrjn0T8YMXuF">UMD Puzzlehunt 2018: It’s Lit</a></h3>
 
+[puzzle-intro]: https://blog.vero.site/post/puzzlehunts
 [bpuzzled-1]: https://www.dawsondo.net/puzzle/2022/09/07/bpuzzled-recap-p1.html
 [bpuzzled-2]: https://www.dawsondo.net/puzzle/2022/09/07/bpuzzled-recap-p2.html
 [umdpuzzle]: https://2021.umdpuzzle.club/
