@@ -28,7 +28,7 @@ In addition to writing puzzles, I served as the lead editor and contributed idea
   <li><a href="https://2021.umdpuzzle.club/puzzle/crazy-eights">Crazy Eights*</a> by Josh Fernandes</li>
   <li><a href="https://2021.umdpuzzle.club/puzzle/legendary-escape">Legendary Escape</a>: metapuzzle</li>
 </ul>
-</p>
+
 <h3><a href="https://drive.google.com/drive/folders/1VcH7XzY30LWlpD3UgnycmGgP4DbT_BN6">UMD Puzzlehunt 2020: Jeopardy!</a></h3>
 <p>I served as the lead editor for this event. This event was designed for a UMD audience, but was held online due to COVID-19.
 <ul>
