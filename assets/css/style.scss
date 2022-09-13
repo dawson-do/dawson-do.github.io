@@ -16,11 +16,12 @@
   }
 
   .reversefootnote {
-    color: $link-base-color
+    color: $link-base-color;
+    box-shadow: none;
   }
 
   .reversefootnote:visited {
-    color: $link-base-color
+    color: $link-base-color;
   }
 
   .footnote {
