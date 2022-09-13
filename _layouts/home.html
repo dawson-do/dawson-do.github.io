@@ -34,6 +34,9 @@ layout: default
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
+        {% if post.content contains site.excerpt_separator %}
+          <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+        {% endif %}
       </li>
       {%- endfor -%}
     </ul>
