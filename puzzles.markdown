@@ -3,18 +3,15 @@ layout: page
 title: Puzzles
 permalink: /puzzles/
 ---
-Puzzle hunts are one of my main hobbies. These types of puzzles are hard to define, but a common thread is that they don't come with clear instructions. You are presented *something* and need to figure out how to solve it, typically resulting in an English word or phrase. [This post][puzzle-intro] gives a much better introduction than I can.
+Puzzlehunts are one of my main hobbies. These types of puzzles are hard to define, but a common thread is that they don't come with clear instructions. You are presented *something* and need to figure out how to solve it, typically resulting in an English word or phrase. [This post][puzzle-intro] gives a much better introduction than I can.
 
 Here's a list of my puzzle-related blog posts:
 
 * Bloomberg Bpuzzled [Part 1][bpuzzled-1] & [Part 2][bpuzzled-2]
 
-Here’s a selected list of puzzles that I have written and/or contributed to.
-
 During undergraduate, I wrote puzzles for the University of Maryland’s Puzzle Club. I became the project lead starting Fall 2019.
 
-
-If you are attempting any, feel free to ask me for hints.
+Here's a selected list of puzzles that I have written and/or contributed to. If you are attempting any, feel free to ask me for hints.
 
 ### [UMD Puzzlehunt 2021][umdpuzzle]
 
