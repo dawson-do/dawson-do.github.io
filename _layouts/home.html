@@ -31,9 +31,7 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
+        {{ post.excerpt }}
         {% if post.content contains site.excerpt_separator %}
           <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
         {% endif %}
