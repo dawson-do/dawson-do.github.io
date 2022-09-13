@@ -18,7 +18,7 @@ layout: default
         </time>
       {%- endif -%}
       {% assign wordCount = post.content | number_of_words %}
-      {{ wordCount | append: " words" }}
+      • {{ wordCount | append: " words" }}
       {%- if page.author -%}
         • {% for author in page.author %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">

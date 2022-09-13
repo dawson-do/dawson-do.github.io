@@ -16,18 +16,17 @@ Here's a selected list of puzzles that I have written and/or contributed to. If 
 ### [UMD Puzzlehunt 2021][umdpuzzle]
 
 In addition to writing puzzles, I served as the lead editor and contributed ideas to several others (listed with an asterisk). I was also responsible for a majority of website operations for this project,  so I encourage you to look at the whole project.
-<ul>
-  <li><a href="https://2021.umdpuzzle.club/puzzle/natural-history">National Museum of Natural History</a></li>
-  <li><a href="https://2021.umdpuzzle.club/puzzle/african-american-history">National Museum of African American History and Culture</a></li>
-  <li><a href="https://2021.umdpuzzle.club/puzzle/national-gallery-of-art">National Gallery of Art</a>: metapuzzle</li>
-  <li><a href="https://2021.umdpuzzle.club/puzzle/recycled">Recycled</a></li>
-  <li><a href="https://2021.umdpuzzle.club/puzzle/tactile-inference">Tactile Inference</a></li>
-  <li><a href="https://2021.umdpuzzle.club/puzzle/splitting-at-the-seams">Splitting at the Seams</a></li>
-  <li><a href="https://2021.umdpuzzle.club/puzzle/severely-mangled-semantics">Severely Mangled Semantics*</a> by Ryan Thomas</li>
-  <li><a href="https://2021.umdpuzzle.club/puzzle/asmr-audio-tour">ASMR Audio Tour</a></li>
-  <li><a href="https://2021.umdpuzzle.club/puzzle/crazy-eights">Crazy Eights*</a> by Josh Fernandes</li>
-  <li><a href="https://2021.umdpuzzle.club/puzzle/legendary-escape">Legendary Escape</a>: metapuzzle</li>
-</ul>
+
+* <a href="https://2021.umdpuzzle.club/puzzle/natural-history">National Museum of Natural History</a>
+* <a href="https://2021.umdpuzzle.club/puzzle/african-american-history">National Museum of African American History and Culture
+*  <a href="https://2021.umdpuzzle.club/puzzle/national-gallery-of-art">National Gallery of Art</a>: metapuzzle
+*  <a href="https://2021.umdpuzzle.club/puzzle/recycled">Recycled</a>
+*  <a href="https://2021.umdpuzzle.club/puzzle/tactile-inference">Tactile Inference</a>
+*  <a href="https://2021.umdpuzzle.club/puzzle/splitting-at-the-seams">Splitting at the Seams</a>
+*  <a href="https://2021.umdpuzzle.club/puzzle/severely-mangled-semantics">Severely Mangled Semantics*</a> by Ryan Thomas
+*  <a href="https://2021.umdpuzzle.club/puzzle/asmr-audio-tour">ASMR Audio Tour</a>
+*  <a href="https://2021.umdpuzzle.club/puzzle/crazy-eights">Crazy Eights*</a> by Josh Fernandes
+*  <a href="https://2021.umdpuzzle.club/puzzle/legendary-escape">Legendary Escape</a>: metapuzzle
 
 <h3><a href="https://drive.google.com/drive/folders/1VcH7XzY30LWlpD3UgnycmGgP4DbT_BN6">UMD Puzzlehunt 2020: Jeopardy!</a></h3>
 <p>I served as the lead editor for this event. This event was designed for a UMD audience, but was held online due to COVID-19.
