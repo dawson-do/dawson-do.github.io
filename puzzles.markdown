@@ -17,11 +17,11 @@ Here's a selected list of puzzles that I have written and/or contributed to. If 
 
 In addition to writing puzzles, I served as the lead editor and contributed ideas to several others (listed with an asterisk). I was also responsible for a majority of website operations for this project,  so I encourage you to look at the whole project.
 
-* <a href="https://2021.umdpuzzle.club/puzzle/natural-history">National Museum of Natural History</a>
-* <a href="https://2021.umdpuzzle.club/puzzle/african-american-history">National Museum of African American History and Culture
-*  <a href="https://2021.umdpuzzle.club/puzzle/national-gallery-of-art">National Gallery of Art</a>: metapuzzle
+* [National Museum of Natural History][https://2021.umdpuzzle.club/puzzle/natural-history]
+* [National Museum of African American History and Culture][https://2021.umdpuzzle.club/puzzle/african-american-history]
+* [National Gallery of Art][https://2021.umdpuzzle.club/puzzle/national-gallery-of-art]: metapuzzle
 *  <a href="https://2021.umdpuzzle.club/puzzle/recycled">Recycled</a>
-*  <a href="https://2021.umdpuzzle.club/puzzle/tactile-inference">Tactile Inference</a>
+*  <a href="https://2021.umdpuzzle.club/puzzle/tactile-inference">Tactile Inference</a>s
 *  <a href="https://2021.umdpuzzle.club/puzzle/splitting-at-the-seams">Splitting at the Seams</a>
 *  <a href="https://2021.umdpuzzle.club/puzzle/severely-mangled-semantics">Severely Mangled Semantics*</a> by Ryan Thomas
 *  <a href="https://2021.umdpuzzle.club/puzzle/asmr-audio-tour">ASMR Audio Tour</a>
@@ -49,4 +49,5 @@ In addition to writing puzzles, I served as the lead editor and contributed idea
 [puzzle-intro]: https://blog.vero.site/post/puzzlehunts
 [bpuzzled-1]: https://www.dawsondo.net/puzzle/2022/09/07/bpuzzled-recap-p1.html
 [bpuzzled-2]: https://www.dawsondo.net/puzzle/2022/09/07/bpuzzled-recap-p2.html
+
 [umdpuzzle]: https://2021.umdpuzzle.club/
