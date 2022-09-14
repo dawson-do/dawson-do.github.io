@@ -32,6 +32,7 @@ twitter_username: umdpuzzle
 theme: minima
 plugins:
   - jekyll-feed
+  - stripfootnotes
 
 header_pages:
   - about.markdown
