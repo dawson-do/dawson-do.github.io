@@ -35,7 +35,7 @@ plugins:
   - stripfootnotes
 
 header_pages:
-  - about.markdown
+  - bloghome.markdown
   - puzzles.markdown
 
 excerpt_separator: "<!--excerpt-->"
