@@ -53,4 +53,6 @@ This was my first year as the lead.
 
 [umdpuzzle]: https://2021.umdpuzzle.club/
 
+---------
+
 [^1]: There’s a small mistake in this one (it does not impact solvability too much)

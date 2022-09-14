@@ -9,13 +9,13 @@ In [Part 1][part-1], I wrote about what Bpuzzled is and my experience the first 
 
 <!--excerpt-->
 
-### Nov 13: Bpuzzled UMD
+#### Nov 13: Bpuzzled UMD
 
 The 2020 COVID pandemic happened, so I wasn't hopeful that I would win another trip to New York City, but was nonetheless surprised when I learned Bpuzzled would return. After doing many puzzlehunts from that spring until fall, I felt way more confident than before. Duck Gizzards, an essentially all-UMD student team, began finishing in the top 20 of popular hunts, so I expected to have a shot at taking first at Bpuzzled. It was also my final year at UMD, so I wouldn't have another chance.
 
 For this year, Josh and Steven returned as team members, while Grant (another UMD Puzzlehunt writer and regular Duck Gizzards teammate) took Ryan's spot, since he graduated. Bpuzzled kept the same format: you initially start with 3 puzzles and unlock 1 more for every solve. The answer checker confirms partials (and more), and you are given canned hints every 10 minutes after the puzzle is unlocked. There would be 8 puzzles and 1 metapuzzle that you would have to solve in the 3-hour time limit.
 
-#### Puzzles
+##### Puzzles
 
 <figure>
   <img src="{{site.url}}/assets/images/bpuzzled/dance.png" alt="A clue for a dance"/>
@@ -33,7 +33,7 @@ I started to work on Spill the Tea with Grant while Josh and Steven worked on Te
 
 Some time while I was working on Grinding Your Teeth, my teammates solved Mirror Mishap and we unlocked the metapuzzle. I dropped my puzzle---I could already tell it'd take too long---and went to look at the meta. The puzzle gave you a grid which was a key for a pigpen-like cipher (clearly inspired by pigpen, but it was their own custom code). Each answer was seven letters long, and the presentation suggested that the letters at each index were assigned a color from `ROYGBIV`. Then you needed to color in the given grid of letters and decode the shapes using their cipher. We didn't take too long to figure out the meta, but with two missing answers, it took us some time fiddling around to get the answer to fall out. With the solve in about 2 hours, we punched our ticket to the virtual Bpuzzled finals.
 
-### Feb 26: Bpuzzled Finals
+#### Feb 26: Bpuzzled Finals
 
 The hosts started by sending everyone a Zoom meeting link, and during the competition they would split every team into a breakout room (although my team ended up hopping into a Discord call). All I could see were some people's names, so I couldn't really get a sense of which schools were present or how many teams there were. The writing team introduced themselves for a little bit, showed us the instruction video that outlined the format, and sent us off to our breakout rooms.
 
@@ -41,7 +41,7 @@ Recalling my experience from last year, I reminded my team that we could take ad
 
 I felt pretty confident, knowing that our team had experience with Bpuzzled's format and having competed in over a dozen more puzzlehunts than last year.
 
-#### Puzzles
+##### Puzzles
 
 The first three puzzles were Bonds of the Heart, Coaster Connection, and Headlines. I started to work on Headlines with Grant, solving clues that gave words that either had the substring `HEAD` or `LINE`. After an indexing step, we finished and were off to start Bonds of the Heart. My teammates working on Coaster Connection started filling out the crossword clues but ended up getting stuck on the extraction. I told them to move on to the new puzzle, Color Filter Tester, while waiting for the canned hints to come up. Coaster Connection ended up wanting us to write letters rotated (as if they were aligned to a rollercoaster track), which we completely missed even though it was heavily clued by the presentation. We were still leading, so I wasn't really concerned.
 
@@ -53,7 +53,7 @@ Meanwhile, my teammates solved Color Filter Tester, a puzzle about removing lett
 
 The metapuzzle was mostly pure, the shell provided an order but there was no other given info. I didn't figure anything about the feeders before we unlocked the meta, so I tried to scan the flavortext for any possible clues. My teammates also stared for a while and I started googling words in the flavortext. I wasn't desperate yet, but since there wasn't a penalty, I figured it wouldn't hurt to start guessing related terms. Best case scenario: the answer checker could confirm something, bailing us out. And it did. I was shocked that typing in something as conspicuous as `KEYHOLE` (in a puzzle themed after unlocking padlocks) would actually come up with anything. It confirmed a subanswer that I was meant to extract out of a feeder, giving me all the context I needed to piece the mechanic together. For each answer, you could replace a letter with `KEY`, to form a word. We extracted a letter from each feeder, giving us a hyperlink to a final clue. Solving this gave us the final answer and secured a first place finish in about 1 hour and 45 minutes. I was happy that we won, but more than that, I was relieved we didn't get walled on any puzzles.
 
-### Retrospective
+#### Retrospective
 
 After finishing Bpuzzled, we sat in our Discord call, waiting for the competition to end. Solving the meta locked us out of the puzzle page, so we couldn't see the leaderboard anymore to watch other teams progress. A member of the writing team hopped into our breakout room to congratulate us and give us a choice among a selection of prizes (we all took the Nintendo Switches we missed out on last year). When the competition ended, they had a short ceremony announcing the prize winners, followed by an author Q&A session.
 
@@ -67,7 +67,7 @@ Writing these posts made me realize how different my approach to and experience 
 
 Thanks for reading this two-part post about some hunts you didn't do. Thanks to Ryan for providing feedback on these posts. Here's a bonus write-up:
 
-### Bonus: APT/Mastercard Puzzle Tournament
+#### Bonus: APT/Mastercard Puzzle Tournament
 
 I'm not sure when the first one was, but Applied Predictive Technologies (APT) also held puzzlehunts for college students. In 2019, this became the Mastercard Puzzle Tournament (after APT was acquired). These were competitions only between teams within a school, and I never kept the earlier puzzles, so there isn't much I remember about them other than doing really poorly my first two years. They didn't hold a competition in 2020, but in 2021 they held a virtual event where it *was* a competition with other schools. I did keep these puzzles, since it was a PDF.
 
