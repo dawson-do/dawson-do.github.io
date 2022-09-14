@@ -23,7 +23,7 @@ author:
   name: Dawson Do
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Where I write about puzzles.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://www.dawsondo.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: umdpuzzle
 
@@ -34,7 +34,7 @@ plugins:
   - stripfootnotes
 
 header_pages:
-  - about.markdown
+  - bloghome.markdown
   - puzzles.markdown
 
 excerpt_separator: "<!--excerpt-->"
