@@ -13,7 +13,7 @@ During undergraduate, I wrote puzzles for the University of Maryland’s Puzzle 
 
 Here's a selected list of puzzles that I have written and/or contributed to. If you are attempting any, feel free to ask me for hints.
 
-### [UMD Puzzlehunt 2021][umdpuzzle]
+#### [UMD Puzzlehunt 2021][umdpuzzle]
 
 In addition to writing puzzles, I served as the lead editor and contributed ideas to several others. I was also responsible for a majority of website operations for this project,  so I encourage you to look at the whole project.
 
@@ -28,7 +28,7 @@ In addition to writing puzzles, I served as the lead editor and contributed idea
 *  [Crazy Eights](https://2021.umdpuzzle.club/puzzle/crazy-eights)* by Josh Fernandes
 *  [Legendary Escape](https://2021.umdpuzzle.club/puzzle/legendary-escape): metapuzzle
 
-### [UMD Puzzlehunt 2020: Jeopardy!](https://drive.google.com/drive/folders/1VcH7XzY30LWlpD3UgnycmGgP4DbT_BN6)
+#### [UMD Puzzlehunt 2020: Jeopardy!](https://drive.google.com/drive/folders/1VcH7XzY30LWlpD3UgnycmGgP4DbT_BN6)
 
 I served as the lead editor for this event. This event was designed for a UMD audience, but was held online due to COVID-19.
 
@@ -36,16 +36,16 @@ I served as the lead editor for this event. This event was designed for a UMD au
 *  [Legends of the Hidden Temple](/puzzle_pdfs/LegendsoftheHiddenTemple.pdf)[^1]
 *  [Fear Factor](/puzzle_pdfs/FearFactor.pdf): metapuzzle
 
-### [UMD Puzzlehunt Fall 2019: Wild Goose Chase](https://drive.google.com/drive/folders/1viXhtaLGz_XC8cUjs0hlgNRWvTdo6uQY)
+#### [UMD Puzzlehunt Fall 2019: Wild Goose Chase](https://drive.google.com/drive/folders/1viXhtaLGz_XC8cUjs0hlgNRWvTdo6uQY)
 
 This was my first year as the lead.
 *  [Unova’s Premier Ball](/puzzle_pdfs/G-Unova's Premier Ball.pdf)
 *  [Nowhere to be Found](/puzzle_pdfs/Z-Nowhere To Be Found.pdf): metapuzzle
 
 
-### [UMD Puzzlehunt Spring 2019: Clues to the Cosmos](https://drive.google.com/drive/folders/1aHD4BWdTpdRAOn7aeA9icxIRUr_ORsgh)
+#### [UMD Puzzlehunt Spring 2019: Clues to the Cosmos](https://drive.google.com/drive/folders/1aHD4BWdTpdRAOn7aeA9icxIRUr_ORsgh)
 
-### [UMD Puzzlehunt 2018: It’s Lit](https://drive.google.com/drive/folders/17BFiIPvTRPqBFKyh74vmUrjn0T8YMXuF)
+#### [UMD Puzzlehunt 2018: It’s Lit](https://drive.google.com/drive/folders/17BFiIPvTRPqBFKyh74vmUrjn0T8YMXuF)
 
 [puzzle-intro]: https://blog.vero.site/post/puzzlehunts
 [bpuzzled-1]: https://www.dawsondo.net/puzzle/2022/09/07/bpuzzled-recap-p1.html
