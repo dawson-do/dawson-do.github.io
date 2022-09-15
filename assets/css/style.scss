@@ -41,8 +41,9 @@
   }
   a:hover{
     transition: all 0.3s;
-    background-color: #EC90F5;
+    background-color: rgba(198, 65, 245, .5);
     border-radius: 0;
+    box-shadow: none;
     text-decoration: none !important;
   }
   body {
