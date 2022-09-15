@@ -11,4 +11,4 @@ My main hobby is doing puzzlehunts. I have also authored and written about [puzz
 
 #### Contact
 
-The best way to contact me is by email `(the first four letters of my first name---all lowercase)@berkeley.edu`. If you prefer, I also use Discord `DAWS#1200`, but you should let me know if you have sent me a friend request.
+The best way to contact me is by email (the first four letters of my first name---all lowercase)`@berkeley.edu`. If you prefer, I also use Discord `DAWS#1200`, but you should let me know if you have sent me a friend request.

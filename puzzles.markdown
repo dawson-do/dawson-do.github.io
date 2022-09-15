@@ -3,7 +3,7 @@ layout: page
 title: Puzzles
 permalink: /puzzles/
 ---
-Puzzlehunts are one of my main hobbies. These types of puzzles are hard to define, but a common thread is that they don't come with clear instructions. You are presented *something* and need to figure out how to solve it, typically resulting in an English word or phrase. [This post][puzzle-intro] gives a much better introduction than I can.
+I spend a lot of time doing puzzlehunts. These types of puzzles are hard to define, but a common thread is that they don't come with clear instructions. You are presented *something* and need to figure out how to solve it, typically resulting in an English word or phrase. [This post][puzzle-intro] gives a much better introduction than I can.
 
 Here's a list of my puzzle-related blog posts:
 
