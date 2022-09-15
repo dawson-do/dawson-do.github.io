@@ -21,7 +21,6 @@
 title: Dawson Do
 author:
   name: Dawson Do
-  email: daws at berkeley dot edu
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Where I write about puzzles.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -32,6 +31,7 @@ twitter_username: umdpuzzle
 theme: minima
 plugins:
   - jekyll-feed
+  - stripfootnotes
 
 header_pages:
   - about.markdown

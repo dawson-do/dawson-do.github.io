@@ -25,13 +25,13 @@ layout: default
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
       <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <span class="post-meta">{{ post.date | date: date_format }} • {{ post.content | number_of_words }} words</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
-        {{ post.excerpt }}
+        {{ post.excerpt | strip_footnotes }}
         {% if post.content contains site.excerpt_separator %}
           <a href="{{ site.baseurl }}{{ post.url | relative_url}}">Read more</a>
         {% endif %}
