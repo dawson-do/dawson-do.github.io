@@ -7,8 +7,14 @@ I am currently pursuing a PhD in Transportation Engineering at the University of
 
 Here’s my [CV](/dawsonDo_CV_grad.pdf).
 
-My main hobby is doing puzzlehunts. I have also authored and written about [puzzlehunts](/puzzles/). Other than that, I enjoy cooking and food science and [listening to (mainly pop) music](https://www.last.fm/user/dawsondo).
+### Hobbies
 
-#### Contact
+My main hobby is doing puzzlehunts. I have also authored and written about [puzzlehunts](/puzzles/). Most notably, I was the project lead for several iterations of the [UMD Puzzlehunt](https://2021.umdpuzzle.club/). Beyond that, I spend my time cooking/learning about food science and listening to (mainly pop) music.
 
-The best way to contact me is by email (the first four letters of my first name---all lowercase)`@berkeley.edu`. If you prefer, I also use Discord `DAWS#1200`, but you should let me know if you have sent me a friend request.
+In the past, I also did drawing and painting.
+
+### Contact
+
+The best way to contact me is by email at (the first four letters of my first name)`@berkeley.edu`.
+
+I also frequently check Discord (`@DAWS#1200`), but let me know if you have sent me a friend request. With less reliability, you can reach me via [Twitter](https://twitter.com/umdpuzzle) or [last.fm](https://www.last.fm/user/dawsondo) shoutbox.
