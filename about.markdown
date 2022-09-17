@@ -11,8 +11,6 @@ Here’s my [CV](/dawsonDo_CV_grad.pdf).
 
 My main hobby is doing puzzlehunts. I have also authored and written about [puzzlehunts](/puzzles/). Most notably, I was the project lead for several iterations of the [UMD Puzzlehunt](https://2021.umdpuzzle.club/). Beyond that, I spend my time cooking/learning about food science and listening to (mainly pop) music.
 
-In the past, I also did drawing and painting.
-
 ### Contact
 
 The best way to contact me is by email at (the first four letters of my first name)`@berkeley.edu`.
