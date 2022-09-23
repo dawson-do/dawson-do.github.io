@@ -39,7 +39,7 @@ print ("Done")
 {% endhighlight %}
 
 {% highlight python %}
-destination_file_path = "C:/Users/dawso/Desktop/Sections.txt"
+destination_file_path = "C:/Sections.txt"
 file = open( destination_file_path, 'w' )
 
 file.write( "Id,O_id,D_id" )
