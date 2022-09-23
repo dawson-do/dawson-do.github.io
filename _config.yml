@@ -36,6 +36,7 @@ plugins:
 header_pages:
   - about.markdown
   - puzzles.markdown
+  - resources.markdown
 
 excerpt_separator: "<!--excerpt-->"
 
