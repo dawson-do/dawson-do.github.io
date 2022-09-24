@@ -13,7 +13,7 @@ WIP
 
 ### Aimsun Scripts
 
-A WIP collection of (trivial and non-trivial) scripts I have written that help me run research experiments.
+A WIP collection of (simple and non-simple) scripts I have written to help me run research experiments.
 
 <details>
 	<summary>Export the ID and positions of all nodes in the network.</summary>
