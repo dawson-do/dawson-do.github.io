@@ -7,7 +7,7 @@ permalink: /resources/
 
 ### Demos
 
-WIP
+[FD_demo.ipynb][fd_demo]: Effect of different Fundamental Diagrams (FD) on traffic waves using finite volume simulation
 
 ## Transportation Software
 
@@ -74,3 +74,5 @@ A WIP collection of (simple and non-simple) scripts I have written to help me ru
 	print ("Done")
 	{% endhighlight %}
 </details>
+
+[fd_demo]: {{site.url}}/assets/notebooks/FD_demo.ipynb
