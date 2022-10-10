@@ -40,7 +40,7 @@ print ("Done")
 </details>
 
 <details>
-	<summary>Export the ID of all sections, and the ID of OD nodes</summary>
+	<summary>Export the ID of all sections, and the ID of Origin and Destination nodes</summary>
 
 	{% highlight python %}
 destination_file_path = "C:/Sections.txt"
