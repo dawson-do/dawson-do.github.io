@@ -3,13 +3,13 @@ layout: page
 title: Research
 permalink: /research/
 ---
-#### Macroscopic Traffic Flow Models
+### Macroscopic Traffic Flow Models
 
 #####  Two-Dimensional Diffusive and Advective Traffic Model on Large Networks
 
 Presented at *Transportation Research Board Annual Meeting, 2023*
 
-#### Traffic Signal Optimization
+### Traffic Signal Optimization
 
 ##### Concurrent Optimization of Cycle Length, Green Splits, and Offsets for the Diverging Diamond Interchange
 
