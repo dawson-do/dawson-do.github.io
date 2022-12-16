@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
+
+{% assign author = site.data.authors[page.author] %}
+{% if page.date_modified %}
+{% assign modified = page.date_modified %}
+{% else %}
+{% assign modified = page.date %}
+{% endif %}
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -10,6 +18,7 @@ layout: default
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ page.date | date: date_format }}
       </time>
+      <meta content="{{ modified | date_to_xmlschema }}" itemprop="dateModified" />
       {%- if page.modified_date -%}
         ~
         {%- assign mdate = page.modified_date | date_to_xmlschema -%}
