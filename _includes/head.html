@@ -13,6 +13,7 @@
   {%- include custom-head.html -%}
 
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="keywords" content="Dawson Do, Berkeley, Transportation, Engineering, PhD, Research, Puzzles, University of California">
 
   <meta property="og:site_name" content="{{ site.title }}">
   {% if page.title %}
@@ -38,6 +39,9 @@
   {% if page.author %}
   {% assign author = site.data.authors[page.author] %}
   <meta property="article:author" content="{{ author.name }}"/>
+  {% endif %}
+  {% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
   {% endif %}
 
 </head>

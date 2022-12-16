@@ -4,6 +4,14 @@ title:  "Bpuzzled Recap Part 1: 2019-2020"
 date:   2022-09-07 15:42:49 -0400
 categories: puzzle
 published: true
+keywords:
+  - Puzzle hunt
+  - puzzlehunt
+  - Puzzle
+  - Bloomberg
+  - Bpuzzled
+  - Dawson Do
+  - Competition
 ---
 
 #### What's Bpuzzled?

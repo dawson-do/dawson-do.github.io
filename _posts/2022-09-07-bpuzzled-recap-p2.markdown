@@ -4,6 +4,14 @@ title:  "Bpuzzled Recap Part 2: 2020-2021"
 date:   2022-09-07 16:42:49 -0400
 categories: puzzle
 published: true
+keywords:
+  - Puzzle hunt
+  - puzzlehunt
+  - Puzzle
+  - Bloomberg
+  - Bpuzzled
+  - Dawson Do
+  - Competition
 ---
 In [Part 1][part-1], I wrote about what Bpuzzled is and my experience the first year it was hosted. In this post, I write about its second year. Because the puzzles were never made public, I can't link to them and won't reproduce them here. I kept an archive, so ask me if you're curious about them.
 
