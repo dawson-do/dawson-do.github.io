@@ -13,7 +13,7 @@ keywords:
   - Competition
 ---
 
-*The 2023 MIT Mystery Hunt can be found [here](https://puzzlefactory.place/). This post will have spoilers.*
+*The 2023 MIT Mystery Hunt can be found [here](https://interestingthings.museum/). This post will have spoilers.*
 
 Last weekend I participated in the annual MIT Mystery Hunt, a puzzle-solving competition traditionally held on MIT’s campus during the MLK day long weekend. I had a great time this year between the puzzles I worked on, seeing with long-time friends, making new friends, and of course making it far into Mystery Hunt for the first time. It was the first time a team I was on received the Phonecall, warning us about our leading position during late Sunday night. We ended up finishing just 40 minutes after the tracking period, placing us about 9th, but I’m nonetheless very happy with how everything turned out.
 
