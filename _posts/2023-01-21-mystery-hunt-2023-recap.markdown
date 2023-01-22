@@ -19,6 +19,8 @@ Last weekend I participated in the annual MIT Mystery Hunt, a puzzle-solving com
 
 This year was my fourth Mystery Hunt and the first time back on campus since my first Mystery Hunt in 2020. For the last two years, the event was online-only, so I was really excited to attend in person again with more experience in the puzzlehunt hobby. I had clearer expectations about the hunt, was more confident about my puzzle-solving, and eager to contribute to the team.
 
+<!--excerpt-->
+
 ### Expectations
 
 First, the expectations. Every year, the group that hosts the MIT Mystery Hunt changes---as tradition, it is the responsibility of the winning team to write and organize the next event. Last year, the team “Palindrome” hosted a [book-themed event](https://puzzles.mit.edu/2022/round/the-investigation/), which was won by “teammate.” Palindrome’s last writing effort was way before my time, with the team changing significantly since then, so I essentially had no idea what to expect for their Mystery Hunt. Conversely, I was extremely excited for teammate’s Mystery Hunt because unlike Palindrome, teammate had recently organized two independent puzzlehunts, Teammate Hunts 2020 and 2021, both of which I adored for their memorable puzzles, unique features (including a virtual game system), and incredible art production value.
