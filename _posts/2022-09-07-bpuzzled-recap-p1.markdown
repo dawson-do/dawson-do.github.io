@@ -10,7 +10,6 @@ keywords:
   - Puzzle
   - Bloomberg
   - Bpuzzled
-  - Dawson Do
   - Competition
 ---
 
