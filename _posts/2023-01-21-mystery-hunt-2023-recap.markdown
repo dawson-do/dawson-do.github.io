@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "2023 MIT Mystery Hunt recap"
+description: Recap of the 2023 MIT Mystery Hunt by Dawson Do.
 date:   2023-01-21 16:42:49 -0400
 categories: puzzle
 published: true
@@ -11,6 +12,7 @@ keywords:
   - MIT
   - Mystery Hunt
   - Competition
+  - Recap
 ---
 
 *The 2023 MIT Mystery Hunt can be found [here](https://interestingthings.museum/). This post will have spoilers.*
