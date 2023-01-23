@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
   - stripfootnotes
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 header_pages:
   - research.markdown

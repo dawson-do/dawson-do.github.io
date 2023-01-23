@@ -32,3 +32,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "nokogiri", "~> 1.11"
 
 gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'
