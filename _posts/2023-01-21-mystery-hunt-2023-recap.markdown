@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2023 MIT Mystery Hunt recap"
-description: Recap of the 2023 MIT Mystery Hunt by Dawson Do.
+description: Recap blog post of the 2023 MIT Mystery Hunt by Dawson Do.
 date:   2023-01-21 16:42:49 -0400
 categories: puzzle
 published: true
