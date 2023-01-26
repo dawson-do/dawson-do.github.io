@@ -71,6 +71,9 @@ Lost at Sea: I got the break-in by interpreting the years and flags, matching th
 
 **Period of Wyrm:** After helping pair the answers, I also helped by verifying the pairs and getting the extract.
 
+**Fountain:** I worked on this after-the-fact, as I was told it was something I should have looked at. I really liked the core idea and the extraction aha was neat. The research step took a lot of time for me since it seemed unconstrained---speaking as someone very familiar with the subject matter.
+
+
 Reflecting on my solves this year is pretty helpful, because I can see that I did make some meaningful contributions, but can improve in a lot of areas. I noticed that during Mystery Hunt, more so than the smaller scale hunts, I have a shorter attention span on puzzles, often hopping around seeing if I can make near-immediate ahas. This is probably because I spend a lot of time staring at metas instead of feeders during Mystery Hunt. In at least one case this year, I called for a free answer when if I had just taken the time to read what was in the sheet for more than five minutes, I probably could have made some headway. One thing I can try to do in the future is put in more effort to help unstuck a puzzle by understanding the work done up until the current point. Writing this post only made me more excited for upcoming events and TTBNL’s Mystery Hunt.
 
 Once again, thanks to teammate for making this really cool and high-effort event. The story was really neat, I liked the OC’s for once, and all the new tech/interactive portions were amazing. I’d have to say it is one of my favorite puzzle hunts I have done.
