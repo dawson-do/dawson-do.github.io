@@ -68,7 +68,7 @@ Now we can talk about some of the more memorable contributions. I’ll do this r
 
 **Second-Rate Tiles:** I did very little work on this one, but I spent some time before going to bed helping fill out the data and reading out the cluephrase.
 
-**Reactivation:** In this puzzle, I helped solve the redactle and spotted an error in our EYE recreation.
+**Reactivation:** In this puzzle, I helped solve the redactle and spotted an error in our EYE recreation. We solved this Sunday morning, with the lights still off in our room. teammate later told us that because of this, they didn't have the opportunity to turn off the lights as they left at the end of the interaction.
 
 **Laugh:** A team mate asked for help after they did basically all of the work and so I spotted the final extract :)
 Lost at Sea: I got the break-in by interpreting the years and flags, matching them to the ships. I was totally lost on how to pair the ships or order them, but I spotted the answer from what we extracted.
