@@ -42,15 +42,19 @@ For next year, like Palindrome, I don’t know what to expect out of the winning
 
 ### Contributions
 
-At the very start of the hunt, I was mostly aimlessly hopping in and out of sheets since there weren't many puzzles to look at. Thus, I mostly contributed to researching and data collection. It wasn’t until Sunday until I felt like I contributed a lot myself. I mentioned above, but on top of puzzles, I went to the Art, Café, and Dance event. I really enjoyed Art and Dance, with Dance being really hilarious and clever.
+At the very start of the hunt, I was mostly aimlessly hopping in and out of sheets since there weren't many puzzles to look at. Thus, I mostly contributed to researching and data collection. It wasn’t until Sunday until I felt like I contributed a lot myself. On top of puzzles, I went to the Art, Café, and Dance event. I really enjoyed Art and Dance, with Dance being really hilarious and clever.
 
 I also found myself in the position of looking for puzzles to use our free answers on. This was a pretty stressful task, since we didn’t know when HQ would close and wanted to see as much as possible, hopefully getting to the final runaround. At first we were good about announcing which puzzles were in consideration for free answers, but eventually it broke down when the rate of identifying/agreeing on using scrip was basically slower than the rate of accruing scrip. I don’t necessarily regret using as many free answers as we did or on the puzzles we used them on in particular, since it was evident we needed all the help we could get, but unfortunately a lot of free answer-usage ended up being poorly communicated.
 
-Now we can talk about some of the more memorable puzzle contributions. I’ll do this roughly chronologically, but it’s honestly all a blur.
+Now we can talk about some of the more memorable contributions. I’ll do this roughly chronologically, but it’s honestly all a blur.
 
 **Scicabulary:** Instantly, I recognized LEAKFAST and FOON as reverse portmanteaus since we once did a puzzle that used this at UMD Puzzle Club.
 
+**Art Event:** Angel and I were excited for the Art Event as we both do/did a lot of it. We were joined by two other TSBI members. In the first task, we were in charge of giving origami instructions with a list of banned words. This was probably the most challenging of the three tasks for us, since we had trouble figuring out the diagrams in hte first place. The second and third tasks went more smoothly and I was pretty happy with what we ended up making in the end.
+
 **Formula Deluxe:** I got the staff ghosts aha, and started to help extract, but left the tedium of measuring the racetracks to my more patient team members.
+
+**Café Event:** I went to do Café with Matt. For me, it was the first thing I did after waking up, while for Matt, this was near the end of his night shift. At first it wasn’t clear what was going on in the event; that it was supposed to be an escape room. It took a few hints from the organizers to get us (and it seems a lot of other teams) on the right track. Since the room itself filled up, we were sitting at a table doing the puzzles outside---making it harder for us to realize what we were meant to use as puzzle data. The puzzles and concept of an escape room was neat, but it ran much longer than the other events I went to. However, it felt like I was just doing more puzzles. I did appreciate the coffee and hot chocolate provided, though.
 
 **Exhibit of Colors:** From the three subpuzzles, I got the aha for how to solve the rest of the puzzle, which was a fun throwback. I’m always especially happy to solve a physical puzzle, so they no longer taunt us sitting in the room.
 
@@ -59,6 +63,8 @@ Now we can talk about some of the more memorable puzzle contributions. I’ll do
 **Tissues:** After Angel spent the better part of the whole day identifying the tissue samples, I helped figure out how to read the message from tissues. We ended up needing a hint to figure out how to construct the logic puzzle. Nonetheless, this was another physical puzzle that we conquered.
 
 **Subterranean Secrets:** Me, Angel, Matt, and Andrew went down into the tunnels which was a neat break from sitting all day. We didn’t end up finishing the puzzle, but I did like the riddles.
+
+**Dance Event:** I was the only volunteer from TSBI Swarm for this event. This was actually more fun than I thought---I had no idea how to dance or what to expect. I ended up roleplaying as one of several Hooded Grebes, using my neck muscles to copy their mating dance. At the end of a tiring Saturday, this event reenergized me. I also met some solvers on a different team who recognized me by my t-shirt, which had the name of our high school.
 
 **Second-Rate Tiles:** I did very little work on this one, but I spent some time before going to bed helping fill out the data and reading out the cluephrase.
 
