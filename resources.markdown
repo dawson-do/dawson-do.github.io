@@ -75,4 +75,4 @@ print ("Done")
 	{% endhighlight %}
 </details>
 
-[fd_demo]: https://nbviewer.org/urls/www.dawsondo.net/assets/notebooks/FD_demo.ipynb
+[fd_demo]: https://nbviewer.org/github/dawson-do/notebook-demos/blob/master/FD_demo.ipynb
