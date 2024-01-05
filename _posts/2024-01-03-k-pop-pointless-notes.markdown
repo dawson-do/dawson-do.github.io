@@ -15,7 +15,20 @@ A couple of months back, I wrote a K-pop-themed Pointless-style quiz for a few f
 
 <!--excerpt-->
 
-*Pointless* is a quiz show where the core gameplay involves trying to answer questions correctly with the most obscure answer possible. In the quiz I ran, all participants were asked to give up to 50 answers for each prompt, and select three answers they think are the most obscure. Each answer is given an obscurity score equal to the number of times that same answer was also on someone else’s submission. The three selected answers are used to score each question, while the rest are only used to penalize other answers. This means that if you are the only person to submit an answer, then it is pointless. If you chose that answer as one of your three to be scored, you are awarded zero points. The goal is to accrue as few points as possible.
+#### Pointless Quiz Rules:
+
+*Pointless* is a quiz show where the core gameplay involves trying to answer questions correctly with the most obscure answer possible. In the quiz I ran, all participants were asked to give up to 50 answers for each prompt, and select three answers they think are the most obscure. Each answer is given an obscurity score equal to the number of times that same answer was also on someone else’s submission. The three selected answers are used to score each question, while the rest are only used to penalize other answers. This means that if you are the only person to submit an answer, then it is pointless. If you chose that answer as one of your three to be scored, you are awarded zero points. The goal is to accrue as few points as possible. I'll reproduce exact rules as worded in the quiz below, for posterity:
+
+* NO LOOKING STUFF UP — Please do not consult any outside sources. Your answers should come entirely from your own knowledge base. Try your best!
+* The goal is to have the fewest possible points. (Hence "Pointless".)
+* For each question, you may enter up to 50 answers. The score of an answer is equal to the number of people who said that answer minus one.
+* Your first 3 answers will be scored. With your second and third answer incurring a +1 and +2 point penalty respectively. Your final score for that question will be the best (i.e. lowest) score out of those 3 answers.
+* If an answer is wrong, it will score MAX + 3, where MAX is the number of people who said the most common correct answer.
+* After your first 3 answers, all of your other answers will count towards other people's scores until you enter 3 wrong answers. All further answers after the third wrong answer will be ignored.
+* Separate multiple answers with commas, newlines, or any other sensible delimiter.
+* There are no passes. Your highest-scoring question is automatically dropped. Good luck.
+
+### Adapting the format to K-pop
 
 Lovemathboy's Pokémon quiz delves into various corners of the franchise, covering the main series games, competitive play, anime, card game, and side games. Within the main series games, it explores music, human characters, moves, and fishing. Pokémon, as an intellectual property, boasts an abundance of content. Despite not acing that quiz, my ballot was solid and I felt I knew a similar amount about K-pop. This prompted me to consider whether K-pop, with its vast culture, could also serve as quiz material and if I was capable of reproducing a similar quiz for my friends.
 
@@ -70,6 +83,8 @@ Assessing the difficulty of the first three questions while writing was challeng
 
 > Each audio clip is from a debut song. Identify the song. [Link to audio files](https://drive.google.com/drive/folders/1pUeiaaqhWOTS_sdMt6B6qD_IMabV2003?usp=sharing) (volume warning)
 
+*List of all correct answers[^4]*
+
 For this question, I went with the theme of identifying the artist based on the initial moments of their career—your first impression of them. These snippets are all the first few seconds of their debut songs. I thought the theming was clever and it helped constrain the question from both the writing and solving side. Going through a playlist of debuts, it was interesting to hear how distinctive, or not distinctive some songs can be. The hardest part was finding songs I wanted to serve as more difficult questions, but without choosing no-name groups. I ended up using older songs, “AH” by After School (2009) and “FIRE” by 2NE1 (2009) for these. Truthfully, there were plenty of songs I could have chosen overall, and my primary consideration in selection were minimizing references to a specific group throughout the quiz and varying the release years to mitigate bias. This question provided much-needed flexibility for the subsequent ones. However, I violated my double-index rule by including an SM group with a member that was the correct answer to question 1, but I felt "Jopping" was too good to replace (its distinctively SuperM), especially since the quiz lacked representation of boy groups.
 
 What surprised me the most was that “POP!” by Nayeon was the least obscure song; it wasn’t a song I personally heard very much of. I was also surprised that “Glass Bead” by GFRIEND was tied for most obscure—for exactly the opposite reason as “POP!” Other than that, the distribution of obscurity was as I had designed. If anything, I initially thought this question was too easy, because one of the first submitted ballots aced this question. This question turned out quite fair—no pointless answers, but everyone got different subsets of songs.
@@ -77,6 +92,10 @@ What surprised me the most was that “POP!” by Nayeon was the least obscure s
 #### Q5: Album portmanteau
 
 > Each image is the left half and right half of two different albums that form a portmanteau with each other. (i.e. The end of the first answer is identical to the start of the second answer). Portmanteaux must overlap at least 2 letters. The first and last letters, as well as the enumeration, have been given to you.
+
+![Q6: Idols from screenshots](assets/images/kpoppointless/q5.png)
+
+*List of all correct answers[^5]*
 
 The album portmanteaus involve image identification, and they are challenging since you need to identify two albums per question—no partial credit. However, this difficulty is counteracted by the potential to guess one if you know the other, using wheel-of-fortune tactics. There are surprisingly few pairs that make for good questions, especially with the constraints I set for myself. There aren't that many well-known album covers and album names with common starting and ending bigrams. I also avoided using any bigram more than once. And of course, I didn’t use the same group twice in one question.
 
@@ -87,6 +106,10 @@ Due to the lack of flexibility in choosing the pairs, I was limited in how much 
 #### Q6: Idols from screenshots
 
 > Each picture is a screenshot with a particular idol removed. Name the missing idol.
+
+![Q6: Idols from screenshots](assets/images/kpoppointless/q6.png)
+
+*List of all correct answers[^6]*
 
 This question was the most challenging for participants and also the one that took the longest to write. The primary difficulty here lies in my criteria for "ubiquity." The questions must be reasonable enough for a non-stan to answer, leading me to focus on memes, popular music videos, and very little else. Again, I faced constraints by deciding not to include SM idols, TWICE, or music videos of the most popular songs featured on Billboard. This question would have been much easier to write without those constraints.
 
@@ -114,6 +137,9 @@ The most guessed image was a tie between Wonyoung’s scene where she’s jumpin
 
 A recurring theme in the writing process for the last three questions is that I intentionally made it more challenging for myself by imposing additional restrictions after creating the first three. My unassuming "no double-indexing” rule led to omitting the most popular groups or their most popular songs, all for a quiz meant to reflect popular culture. It was surprisingly difficult, but evidently still possible. There is still quite a lot of common ground outside of the most popular groups. For many fans, K-pop is more than just the songs, so I knew it wouldn’t be a comprehensive quiz without also touching on the non-music side, such as idols, memes, and tv shows. It was a challenge to distill all of these parts into a short quiz, but I had fun giving it a shot. I got a lot out of having to research the discographies of groups outside of the most well-known ones. In a time where I personally wasn’t keeping up with K-pop all that much, writing the quiz was a little nostalgic and helped me catch up on recent releases. I rewatched videos I hadn’t seen in a while. I watched a lot of music videos for the first time. I watched a lot of music videos 10+ times when picking out frames. And I watched the Jopping music video over 50 times, according to my Youtube Rewind (I have no shame).
 
-[^1]: <span class="spoiler"> This is the footnote. </span>
-[^2]: ss
-[^3]: 3
+[^1]: <span class="spoiler"> MARK, MAX CHANGMIN, MINHO, SEHUN, SEOHYUN, SEULGI, SEUNGHAN, SHINDONG, SHOO, SHOTARO, SIWON, SOHEE, SOOYOUNG, STEPHANIE, SUHO, SULLI, SUNDAY, SUNGCHAN, SUNGMIN, SUNNY </span>
+[^2]: See the Wikipedia page, [Twice singles discography](https://en.wikipedia.org/wiki/Twice_singles_discography#Korean_singles)
+[^3]: See the Wikipedia page, [List of K-pop songs on the *Billboard* Charts](https://en.wikipedia.org/wiki/List_of_K-pop_songs_on_the_Billboard_charts#Billboard_Hot_100_(Complete))
+[^4]: <span class="spoiler"> A - Eleven by IVE; B - Bon Bon Chocolat by EVERGLOW; C - POP! by Nayeon; D - Energetic by Wanna One; E - Glass Bead by GFRIEND; F - Hi High by LOONA; G - Fire by 2NE1; H - WA DA DA by Kep1er; I - Jopping by SuperM; J - AH by After School </span>
+[^5]: <span class="spoiler"> A - KIM LIPSTICK; B - TOUCHAT-SHIRE; C - SUMMER ADEAR OHMYGIRL; D - WJ PLEASECRET GARDEN; E - SQUARE ONEIRIC DIARY; F - DOUBLASTAYDOM; G - GAME PLANTIFRAGILE; H - HI PRIST I NEVER DIE; I - MISS MEMORY; J - JOHN TRAVOLTA WANNA BETTER </span>
+[^6]: <span class="spoiler"> A - HANI; B - SUNMI; C - JENNIE; D - SEJEONG; E - HAEWON; F - RYUJIN; G - WONYOUNG; H - YUBIN; I - MIYEON; J - CL </span>

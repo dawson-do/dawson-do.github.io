@@ -189,14 +189,14 @@ pre {
 }
 
 .spoiler {
-    background: var(--black);
+    background: black;
     border-radius: 4px;
     padding: 0 4px;
     transition: all .3s ease-in-out
 }
 
 .spoiler:not(:hover) {
-    color: var(--black)!important
+    color: black !important
 }
 
 .spoiler:focus,.spoiler:hover {
