@@ -38,7 +38,7 @@ With K-pop trivia, you could write thousands of questions like “what is the fa
 
 ### Quiz
 
-When writing the quiz, I set a few rules and goals as I brainstormed questions. I wanted to span as much of K-pop culture as possible with minimal overlap. I didn’t want to over-represent questions about songs, so I also wrote questions about the idols themselves, as well as albums. I also wanted to make sure that no answer would be correct for more than one question, and furthermore, minimize the amount of times a specific artist was repeated throughout the whole quiz. This would reduce the bias toward fans of a particular group.
+When writing the quiz, I set a few rules and goals as I brainstormed questions. I wanted to span as much of K-pop culture as possible with minimal overlap. I didn’t want to over-represent questions about songs, so I also wrote questions about the idols themselves, as well as albums. I also wanted to make sure that no answer would be correct for more than one question, and furthermore, minimize the amount of times a specific artist was repeated throughout the whole quiz. This would reduce the bias toward fans of a particular group. I'll note that for my intended audience, I kept the more specific questions mostly about girl groups.
 
 My general writing process was essentially to come up with the questions and then do research to explore how many possible answers there were to see if the question had potential. As I alluded to before, I ended up with six questions mainly because I couldn’t think of that many more interesting ones. I cut two questions from the quiz (a question about identifying lightsticks and one about survival show rankings), because I didn’t think they were that interesting compared to the others.
 
