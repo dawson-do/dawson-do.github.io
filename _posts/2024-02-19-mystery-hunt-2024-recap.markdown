@@ -2,7 +2,7 @@
 layout: post
 title:  "2024 MIT Mystery Hunt recap"
 description: Recap blog post of the 2024 MIT Mystery Hunt by Dawson Do.
-date:   2024-02-20 16:42:49 -0400
+date:   2024-02-19 16:42:49 -0400
 categories: puzzle
 published: true
 keywords:
@@ -86,6 +86,8 @@ Roughly chronologically, these were all of my contributions I remember:
 **Split the Difference:** Was called in to look at this so I pulled in Grant. We finished up the last few clues needed to read the answer out.
 
 **Toy Chest:** Angel was looking at this and so I hopped in. I got some sets to come out by googling, and pulled Grant in. We ended up using a hint to find the Smurfs set. We solved it soon after all the sets were identified.
+
+### Final Thoughts
 
 As with last year, I find it helpful to reflect on how I solved. I think one notable thing was that on more than one occasion, I made the right call to pull my friends in to what I was looking at, which helped unstick several puzzles. I also directed Matt towards A Radical Fishing Trip, which was exactly up his alley. In the past, I think hopping around different puzzles wasn't very productive, but I think approaching it more managerially, seeing who might fit with which puzzles, was. Last year I said I stared at metas too much. In contrast, this year I didn't work on metas during the first two days, which did make me feel more productive and I think I had more fun.
 
