@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Spectral Ray Tracing (CS284A Spring 2024: Final Project)
-permalink: /spectralraytracing/
+permalink: /projects/spectral/
 ---
+## Spectral Ray Tracing (CS284A Spring 2024: Final Project)
+
 ![Renders](/assets/spectral/images/final_renders.png)
 
 [paper](/assets/spectral/Spectral_Raytracing.pdf) • [code]() • [video]() • [slides]()
