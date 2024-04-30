@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Spectral Ray Tracing
-permalink: /spectral/
 ---
 ### CS 184/284A Spring 2024: Final Project
 
