@@ -23,4 +23,4 @@ At the University of Maryland, College Park, I developed a method for optimizing
 
 ![Renders](/assets/spectral/images/final_renders.png)
 
-In this project, we write a ray tracer that includes spectral information about rays within the light field. With it, we can create striking photorealistic scenes accessible only through spectral information. [*Read More*](/spectral/)
+In this project, we write a ray tracer that includes spectral information about rays within the light field. With it, we can create striking photorealistic scenes accessible only through spectral information. [*Read More*](/spectral)
