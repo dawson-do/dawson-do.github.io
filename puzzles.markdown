@@ -8,6 +8,7 @@ I spend a lot of time doing puzzlehunts. These types of puzzles are hard to defi
 Here's a list of my puzzle-related blog posts:
 
 * Bloomberg Bpuzzled [Part 1][bpuzzled-1] & [Part 2][bpuzzled-2]
+* MIT Mystery Hunt [2023][https://www.dawsondo.net/puzzle/2023/01/21/mystery-hunt-2023-recap.html] & [2024][https://www.dawsondo.net/puzzle/2024/02/19/mystery-hunt-2024-recap.html]
 
 During undergraduate, I wrote puzzles for the University of Maryland’s Puzzle Club. I became the project lead starting Fall 2019.
 
