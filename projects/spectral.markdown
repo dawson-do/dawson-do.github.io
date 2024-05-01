@@ -15,11 +15,11 @@ In this project, we write a ray tracer that includes spectral information about 
 
 | ![Two renders of a bunny, showing the effect of parameter B on the color of light refracted through glass.](/assets/spectral/images/bunny_compare.png) |
 |:--:|
-| Top, bunny rendered with non-dispersive glass. Bottom, bunny rendered with dispersive glass. |
+| Left, bunny rendered with non-dispersive glass. Right, bunny rendered with dispersive glass. |
 
 | ![Example render showing the color differences between RGB rendering and spectral sampling for microfacet copper.](/assets/spectral/images/copper_dragon_compare.png) |
 |:--:|
-| CBdragon with copper surface. On the left, RGB up-sampled microfacet BSDF. On the right, spectral microfacet BSDF. |
+| CBdragon with copper surface. On the left, RGB upsampled microfacet BSDF. On the right, spectral microfacet BSDF. |
 
 | ![Soap films on PVC and Copper with film thicknesses given on the left.](/assets/spectral/images/dragon_irid_pvc-cu.png) |
 |:--:|
