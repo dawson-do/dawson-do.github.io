@@ -6,7 +6,7 @@ title: Spectral Ray Tracing
 
 ![Renders](/assets/spectral/images/final_renders.png)
 
-[paper](/assets/spectral/Spectral_Raytracing.pdf) • [video]() • [slides]()
+[paper](/assets/spectral/Spectral_Raytracing.pdf) • [code]() • [video](https://drive.google.com/file/d/1GtsP702l3AnWQCvRyP-3QoPc0VsOrKd3/view?usp=sharing) • [slides]()
 
 ##### Abstract
 In this project, we write a ray tracer that includes spectral information about rays within the light field. A traditional ray tracer tracks RGB intensities along the ray and propagates the ray using RGB information about scene elements. In reality, light is distributed by wavelength in a continuous space, with visible light occupying the range approximately from 400 nm to 700 nm. Optical phenomena arise from wavelength-dependent interactions, including dispersion, iridescence, and reflection probability. In this project, we refactor the ray tracer we wrote in Homework 3 to incorporate wavelength dependence by adding a layer of wavelength sampling. We also implement scene elements that leverage this feature, including glass materials, mirror surfaces, microfacet surfaces, thin films, and black body emitters. With these, we can create striking photorealistic scenes accessible only through spectral information.
@@ -35,8 +35,10 @@ In this project, we write a ray tracer that includes spectral information about 
 
 ### Extras
 
-![Metal bunny with bubbles and prism](/assets/spectral/images/prism_rab2.png){: width="33%"}
-![Metal bunny with prism](/assets/spectral/images/prism_rab_2048.png){: width="33%"}
-![Refractive diamond](/assets/spectral/images/diamond_cauchy_2048.png){: width="33%"}
-![Refractive bunny](/assets/spectral/images/bunny_cauchy_1024.png){: width="33%"}
-![Iridescent film on a metal dragon](/assets/spectral/images/dragon_thin750_water_128.png){: width="33%"}
+![Metal bunny with bubbles and prism](/assets/spectral/images/prism_rab2.png){: width="45%"}
+![Metal bunny with prism](/assets/spectral/images/prism_rab_2048.png){: width="45%"}
+![Refractive diamond](/assets/spectral/images/diamond_cauchy_2048.png){: width="45%"}
+![Refractive bunny](/assets/spectral/images/bunny_cauchy_1024.png){: width="45%"}
+![Iridescent film on a metal dragon](/assets/spectral/images/dragon_thin750_water_128.png){: width="45%"}
+![Iridescent film on a plastic dragon](assets/spectral/images/dragon_cthin500_water-pvc.png){: width="45%"}
+![Soap bubble and glass ball with film](/assets/spectral/images/soap_glass_1024.png){: width="45%"}
