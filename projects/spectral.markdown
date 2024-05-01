@@ -13,28 +13,30 @@ In this project, we write a ray tracer that includes spectral information about 
 
 ### Figures
 
-| ![Two renders of a bunny, showing the effect of parameter B on the color of light refracted through glass.](/assets/spectral/images/bunny_compare.png){: width="33%" } |
+| ![Two renders of a bunny, showing the effect of parameter B on the color of light refracted through glass.](/assets/spectral/images/bunny_compare.png) |
 |:--:|
 | Top, bunny rendered with non-dispersive glass. Bottom, bunny rendered with dispersive glass. |
 
-<figure>
-  <img src="{{site.url}}/assets/spectral/images/copper_dragon_compare.png" alt="Example render showing the color differences between RGB rendering and spectral sampling for microfacet copper."  width="33%"/>
-  <figcaption>CBdragon with copper surface. On the left, RGB up-sampled microfacet BSDF. On the right, spectral microfacet BSDF.</figcaption>
-</figure>
+| ![Example render showing the color differences between RGB rendering and spectral sampling for microfacet copper.](/assets/spectral/images/copper_dragon_compare.png) |
+|:--:|
+| CBdragon with copper surface. On the left, RGB up-sampled microfacet BSDF. On the right, spectral microfacet BSDF. |
 
-<figure>
-  <img src="{{site.url}}/assets/spectral/images/dragon_irid_pvc-cu.png" alt="Soap films on PVC and Copper with film thicknesses given on the left."  width="33%"/>
-  <figcaption>CBdragon with copper surface. On the left, RGB up-sampled microfacet BSDF. On the right, spectral microfacet BSDF.</figcaption>
-</figure>
+| ![Soap films on PVC and Copper with film thicknesses given on the left.](/assets/spectral/images/dragon_irid_pvc-cu.png) |
+|:--:|
+| Soap films on PVC and Copper with film thicknesses given on the left. |
 
-<figure>
-  <img src="{{site.url}}/assets/spectral/images/soap2_512.png" alt="Two soap bubbles against a white background with iridescent effects."  width="33%"/>
-  <figcaption>Soap bubbles modeled using a film on a vacuum. The foreground and background bubbles have a thickness of 500 nm and 350 nm, respectively.</figcaption>
-</figure>
+| ![Two soap bubbles against a white background with iridescent effects.](/assets/spectral/images/soap2_512.png){: width=""} |
+|:--:|
+| Soap bubbles modeled using a film on a vacuum. The foreground and background bubbles have a thickness of 500 nm and 350 nm, respectively. |
 
-<figure>
-  <img src="{{site.url}}/assets/spectral/images/blackbody_compare.png" alt="Example render showing the color differences between black bodies at two different temperatures."  width="33%"/>
-  <figcaption>CBspheres with a black body area light temperature at 3000 K (left) and 12000 K (right).</figcaption>
-</figure>
+| ![Example render showing the color differences between black bodies at two different temperatures.](/assets/spectral/images/blackbody_compare.png){: width=""} |
+|:--:|
+| CBspheres with a black body area light temperature at 3000 K (left) and 12000 K (right). |
 
 ### Extras
+
+![Metal bunny with bubbles and prism](/assets/spectral/images/prism_rab2.png){: width="33%"}
+![Metal bunny with prism](/assets/spectral/images/prism_rab_2048.png){: width="33%"}
+![Refractive diamond](/assets/spectral/images/diamond_cauchy_2048.png){: width="33%"}
+![Refractive bunny](/assets/spectral/images/bunny_cauchy_1024.png){: width="33%"}
+![Iridescent film on a metal dragon](/assets/spectral/images/dragon_thin750_water_128.png){: width="33%"}
