@@ -25,7 +25,7 @@ In this project, we write a ray tracer that includes spectral information about 
 |:--:|
 | Soap films on PVC and Copper with film thicknesses given on the left. |
 
-| ![Dragons with a color gradient corresponding to the colors of tempered steel.](/assets/spectral/images/dragon_tempered.png) |
+| ![Actual colors of tempered steel at certain temperatures.](/assets/spectral/images/Tempering_standards_used_in_blacksmithing.jpg){: width="80%"} ![Dragons with a color gradient corresponding to the colors of tempered steel.](/assets/spectral/images/dragon_thin_fe_64.png){: width="40%"} ![Dragons with a color gradient corresponding to the colors of tempered steel.](/assets/spectral/images/dragon_cthin_fe_64.png){: width="40%"} |
 |:--:|
 | Iron oxide film on iron dragons, compared to a real reference of tempered steel [Wikipedia](https://en.wikipedia.org/wiki/Tempering_(metallurgy)). The left dragon uses varying refraction index from [RefractionIndex.info](https://refractiveindex.info/?shelf=main&book=Fe2O3), the right dragon uses constant refractive index, similar to Belcour and Barla, 2017.|
 
