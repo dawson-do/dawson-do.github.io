@@ -35,10 +35,11 @@ In this project, we write a ray tracer that includes spectral information about 
 
 ### Extras
 
-![Metal bunny with bubbles and prism](/assets/spectral/images/prism_rab2.png){: width="45%"}
-![Metal bunny with prism](/assets/spectral/images/prism_rab_2048.png){: width="45%"}
-![Refractive diamond](/assets/spectral/images/diamond_cauchy_2048.png){: width="45%"}
-![Refractive bunny](/assets/spectral/images/bunny_cauchy_1024.png){: width="45%"}
-![Iridescent film on a metal dragon](/assets/spectral/images/dragon_thin750_water_128.png){: width="45%"}
-![Iridescent film on a plastic dragon](assets/spectral/images/dragon_cthin500_water-pvc.png){: width="45%"}
-![Soap bubble and glass ball with film](/assets/spectral/images/soap_glass_1024.png){: width="45%"}
+![Metal bunny with bubbles and prism](/assets/spectral/images/prism_rab2.png){: width="48%"}
+![Metal bunny with prism](/assets/spectral/images/prism_rab_2048.png){: width="48%"}
+![Refractive diamond](/assets/spectral/images/diamond_cauchy_2048.png){: width="48%"}
+![Refractive bunny](/assets/spectral/images/bunny_cauchy_1024.png){: width="48%"}
+![Iridescent film on a metal dragon](/assets/spectral/images/dragon_thin750_water_128.png){: width="48%"}
+![Iridescent film on a plastic dragon](/assets/spectral/images/dragon_cthin500_waterpvc.png){: width="48%"}
+![Soap bubble and glass ball with film](/assets/spectral/images/soap_glass_1024.png){: width="48%"}
+![Glass coil with film under 3000 K black body emitter](/assets/spectral/images/coil_thin550_glass_512.png){: width="48%"}
