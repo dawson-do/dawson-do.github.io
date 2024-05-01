@@ -27,7 +27,7 @@ In this project, we write a ray tracer that includes spectral information about 
 
 | ![Dragons with a color gradient corresponding to the colors of tempered steel.](/assets/spectral/images/dragon_tempered.png) |
 |:--:|
-| Iron oxide film on iron dragons, compared to a real reference of tempered steel [Wikipedia]{https://en.wikipedia.org/wiki/Tempering_(metallurgy)}. The left dragon uses varying refraction index from [RefractionIndex.info]{https://refractiveindex.info/?shelf=main&book=Fe2O3}, the right dragon uses constant refractive index, similar to Belcour and Barla, 2017.|
+| Iron oxide film on iron dragons, compared to a real reference of tempered steel [Wikipedia](https://en.wikipedia.org/wiki/Tempering_(metallurgy)). The left dragon uses varying refraction index from [RefractionIndex.info](https://refractiveindex.info/?shelf=main&book=Fe2O3), the right dragon uses constant refractive index, similar to Belcour and Barla, 2017.|
 
 | ![Two soap bubbles against a white background with iridescent effects.](/assets/spectral/images/soap2_512.png){: width=""} |
 |:--:|
