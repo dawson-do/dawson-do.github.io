@@ -5,9 +5,11 @@ permalink: /about/
 ---
 ### Hey, Dawson here.
 
-I'm currently pursuing a PhD in Transportation Engineering at the University of California, Berkeley. My research focuses on 2D traffic flow models based on partial differential equations. I also like to study the numerical methods used to solve these models. Read more about my research [here](/projects/).
+I'm currently a PhD student in Transportation Engineering at the University of California, Berkeley. My research interests are large-scale traffic flow models based on partial differential equations. I also like to study the numerical methods used to solve these models. Read more about my research [here](/projects/).
 
-I completed a Master's of Science in Transportation Engineering in 2022, also at Berkeley. Before that, I graduated from the University of Maryland, College Park with a double degree: a BS in Mathematics and a BS in Civil & Environmental Engineering.
+I also work at the National Renewable Energy Laboratory (NREL) with the AI group within the Computational Science Center. My work at NREL focuses on grid operations during extreme events.
+
+In 2022, I completed a Master's of Science in Transportation Engineering, also at Berkeley. Before that, I graduated from the University of Maryland, College Park with a double degree: a BS in Mathematics and a BS in Civil & Environmental Engineering. Go Terps!
 
 Here’s my [CV](assets/dawsonDo_CV_grad.pdf).
 
