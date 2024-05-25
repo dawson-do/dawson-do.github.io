@@ -3,15 +3,15 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-## Notebooks
+### Notebooks
 
-### Demos
+#### Demos
 
 [FD_demo.ipynb][fd_demo]: Basic 1D finite volume method simulation showing the effect of different Fundamental Diagrams (FD) on traffic waves
 
-## Transportation Software
+### Transportation Software
 
-### Aimsun Scripts
+#### Aimsun Scripts
 
 A WIP collection of (simple and non-simple) scripts I have written to help me run research experiments.
 

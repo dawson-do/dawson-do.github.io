@@ -104,6 +104,7 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
+  padding-bottom: 4px;
 }
 
 
@@ -221,6 +222,21 @@ pre {
   }
 }
 
+.header-wrapper {
+  max-width: calc(#{$content-width} - (#{$spacing-unit}));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: $spacing-unit / 2;
+  padding-left: $spacing-unit / 2;
+  @extend %clearfix;
+
+  @media screen and (min-width: $on-large) {
+    max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+  }
+}
+
 
 
 /**
@@ -251,7 +267,7 @@ pre {
   height: 16px;
   display: inline-block;
   fill: currentColor;
-  padding: 5px 3px 2px 5px;
+  padding: 5px 3px 12px 5px;
   vertical-align: text-bottom;
 }
 

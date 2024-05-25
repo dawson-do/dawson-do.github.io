@@ -8,7 +8,7 @@
 
   p a {
     color: $text-color;
-    box-shadow: 0px -7px 0px rgba(198, 65, 245, .5) inset;
+    box-shadow: 0px -7px 0px $color-accent-a1 inset;
     text-decoration: none !important;
   }
 
@@ -41,7 +41,7 @@
   }
   a:hover{
     transition: all 0.3s;
-    background-color: rgba(198, 65, 245, .5);
+    background-color: $color-accent-a1;
     border-radius: 0;
     box-shadow: none;
     text-decoration: none !important;
@@ -50,11 +50,22 @@
     font-family: 'Source Serif Pro', Helvetica;
     font-variant-ligatures: none;
     line-height: 1.5rem;
-    font-size: 1.2rem;
+    font-size: $body-font-size;
     max-width: 960px;
-    margin-left: 23%;
-    margin-right: 17%;
+    width:96vw;
+    min-width: 450px;
+    margin-left: auto;
+    margin-right: auto;
   }
-.site-header{
-  margin-top: 25px;
-}
+
+  .post-content h3:after {
+        content: "QCYN2";
+        color: transparent;
+        position: absolute;
+        width: 100%;
+        margin-left: 14px;
+        background: linear-gradient(transparent, transparent 17.5%, $color-accent-1 17.5%, $color-accent-1 27.5%,
+        transparent 27.5%, transparent 45%, $color-accent-1 45%, $color-accent-1 55%,
+        transparent 55%, transparent 72.5%, $color-accent-1 72.5%, $color-accent-1 82.5%,
+        transparent 82.5%, transparent );
+    }

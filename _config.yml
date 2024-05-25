@@ -31,7 +31,6 @@ twitter_username: umdpuzzle
 theme: minima
 plugins:
   - jekyll-feed
-  - stripfootnotes
   - jekyll-seo-tag
   - jekyll-sitemap
 
