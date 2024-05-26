@@ -34,7 +34,7 @@ In addition to writing puzzles, I served as the lead editor and contributed idea
 I served as the lead editor for this event. This event was designed for a UMD audience, but was held online due to COVID-19.
 
 *  [Triple Threat](/puzzle_pdfs/TripleThreat.pdf)
-*  [Legends of the Hidden Temple](/puzzle_pdfs/LegendsoftheHiddenTemple.pdf)[^1]
+*  [Legends of the Hidden Temple](/puzzle_pdfs/LegendsoftheHiddenTemple.pdf)
 *  [Fear Factor](/puzzle_pdfs/FearFactor.pdf): metapuzzle
 
 ### [UMD Puzzlehunt Fall 2019: Wild Goose Chase](https://drive.google.com/drive/folders/1viXhtaLGz_XC8cUjs0hlgNRWvTdo6uQY)
@@ -55,5 +55,3 @@ This was my first year as the lead.
 [umdpuzzle]: https://2021.umdpuzzle.club/
 
 ---------
-
-[^1]: There’s a small mistake in this one (it does not impact solvability too much)

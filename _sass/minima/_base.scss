@@ -118,7 +118,6 @@ a {
 
   &:hover {
     color: $link-hover-color;
-    text-decoration: underline;
   }
 
   .social-media-list &:hover {
@@ -225,9 +224,9 @@ pre {
 .header-wrapper {
   max-width: calc(#{$content-width} - (#{$spacing-unit}));
   margin-right: auto;
-  margin-left: auto;
-  padding-right: $spacing-unit / 2;
-  padding-left: $spacing-unit / 2;
+  margin-left: 10px;
+  padding-right: $spacing-unit;
+  padding-left: $spacing-unit;
   @extend %clearfix;
 
   @media screen and (min-width: $on-large) {

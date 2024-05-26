@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }} 
+    <h1 class="page-heading">{{ page.title }}
               <a href="{{ 'feed.xml' | relative_url }}">
                 <svg class="svg-icon orange">
                   <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
@@ -38,7 +38,9 @@ layout: default
         </h3>
         {{ post.excerpt | strip_footnotes }}
         {% if post.content contains site.excerpt_separator %}
+        <p>
           <a href="{{ site.baseurl }}{{ post.url | relative_url}}">Read more</a>
+          </p>
         {% endif %}
       </li>
       {%- endfor -%}
