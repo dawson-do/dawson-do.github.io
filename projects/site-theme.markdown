@@ -2,7 +2,7 @@
 layout: page
 title: About my site theme
 ---
-Feel free to "inspect element" in your browser to check out how the styling is done. A word of warning, it's pretty unorganized.
+Feel free to "inspect element" in your browser or view the [repo](https://github.com/dawson-do/dawson-do.github.io) to see how the styling is done. A word of warning, it's pretty unorganized.
 
 ### Inspiration
 

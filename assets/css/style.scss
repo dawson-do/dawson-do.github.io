@@ -92,7 +92,9 @@
     min-width: 450px;
     margin-left: auto;
     margin-right: auto;
-    background: lighten($color-accent-a1, 10%);
+    $color-1: lighten($color-accent-a1, 10%);
+    $color-2: lighten($color-accent-a1, 12%);
+    background: repeating-linear-gradient(45deg,$color-1,$color-1 60px,$color-2 60px,$color-2 70px);
   }
 
   .post-content h3:after {
