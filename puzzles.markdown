@@ -53,5 +53,3 @@ This was my first year as the lead.
 [bpuzzled-2]: https://www.dawsondo.net/puzzle/2022/09/07/bpuzzled-recap-p2.html
 
 [umdpuzzle]: https://2021.umdpuzzle.club/
-
----------

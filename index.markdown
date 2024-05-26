@@ -20,3 +20,7 @@ My main hobby is doing puzzlehunts, which are competitions where teams try to so
 The best way to contact me is by email at (the first four letters of my first name)`@berkeley.edu`.
 
 I also frequently check Discord (`@daws_`), but let me know if you have sent me a friend request. With less reliability, you can reach me via [Twitter](https://twitter.com/umdpuzzle) or [last.fm](https://www.last.fm/user/dawsondo) shoutbox.
+
+------
+
+<sup>This website is made with Jekyll and hosted on Github Pages. The theme is [custom made](/projects/site-theme) by me!</sup>

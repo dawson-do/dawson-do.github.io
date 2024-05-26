@@ -49,6 +49,9 @@ ul, ol, dl, figure,
 hr {
   margin-top: $spacing-unit;
   margin-bottom: $spacing-unit;
+  background-color: $color-accent-1;
+  height: 2px;
+  border: 0;
 }
 
 /**

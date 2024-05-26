@@ -92,6 +92,7 @@
     min-width: 450px;
     margin-left: auto;
     margin-right: auto;
+    background: lighten($color-accent-a1, 10%);
   }
 
   .post-content h3:after {
