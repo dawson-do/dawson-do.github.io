@@ -33,5 +33,6 @@ gem "nokogiri", "~> 1.13"
 
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
+gem 'jekyll-paginate'
 
 gem "webrick", "~> 1.8"

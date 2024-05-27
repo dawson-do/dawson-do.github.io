@@ -6,7 +6,7 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-  .page-content h3 a:not(.footnote):not(.reversefootnote) {
+  .page-content h3 a:not(.footnote):not(.reversefootnote):not(.next-page):not(.previous-page) {
     color: $color-accent-1;
     &:hover{
       color: $color-accent-1;
@@ -16,7 +16,7 @@
     }
   }
 
-  .page-content a:not(.footnote):not(.reversefootnote) {
+  .page-content a:not(.footnote):not(.reversefootnote):not(.next-page):not(.previous-page) {
     color: $link-base-color;
     text-decoration: none !important;
     position: relative;

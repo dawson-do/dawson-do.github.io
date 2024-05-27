@@ -412,8 +412,7 @@ $header-height: $base-line-height * $base-font-size * 2;
     a {
       display: block;
       padding: $spacing-unit / 4;
-      border: 1px solid $border-color-01;
-      &:hover { border-color: $border-color-02 }
+      border: 2px solid $color-accent-2;
     }
   }
 }
@@ -435,11 +434,11 @@ $header-height: $base-line-height * $base-font-size * 2;
     div {
       display: block;
       padding: $spacing-unit / 4;
-      border: 1px solid transparent;
+      border: 2px solid transparent;
 
       &.pager-edge {
-        color: $border-color-01;
-        border: 1px dashed;
+        color: $color-accent-2;
+        border: 2px dashed;
       }
     }
   }
