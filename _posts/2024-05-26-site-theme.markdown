@@ -2,7 +2,7 @@
 layout: post
 title:  "About my site theme"
 description: Notes on how I made my website theme
-date:   2024-05-24 16:42:49 -0400
+date:   2024-05-26 16:42:49 -0400
 categories: other
 published: true
 keywords:
@@ -22,7 +22,7 @@ Besides my personal website, the only project where I was heavily involved in th
 
 Before working on this theme, I had already changed a few things from default Minima---removing the footer, changing the header---but nothing substantial. I had ideas for the new theme for a while, but finally found the time and energy recently.
 
-So one of my favorite TV shows of all time was a Chinese reality series, Youth With You Season 2 (YWY)[^1]. I really liked the graphic design used throughout the show, and figured it'd be a fun project to adapt it to a website theme. I had previously tracked down the design firm's [Behance page](https://www.behance.net/gallery/93881133/YOUTH-WITH-YOU-Season2-2) for a different project (see images below), and the page was, again, an invaluable reference.
+So one of my favorite TV shows of all time was a Chinese reality series, Youth With You Season 2 (YWY)[^1]. I really liked the graphic design used throughout the show, and figured it'd be a fun project to adapt it to a website theme. I had previously tracked down the design firm's [YWY Behance page](https://www.behance.net/gallery/93881133/YOUTH-WITH-YOU-Season2-2) for a different project (see images below), and the page was, again, an invaluable reference.
 
 | ![Youth With You Season 2 logo built in Terraria](/assets/images/site-theme/ywy-terraria.png)|
 |:--:|
