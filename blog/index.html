@@ -5,12 +5,13 @@ title: Blog
 
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}
-              <a href="{{ 'feed.xml' | relative_url }}">
-                <svg class="svg-icon orange">
-                  <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-                </svg>
-              </a></h1>
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}<a href="{{ 'feed.xml' | relative_url }}">
+      <svg class="svg-icon orange">
+        <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+      </svg>
+    </a></h1>
+  </header>
   {%- endif -%}
 
   {% if site.paginate %}

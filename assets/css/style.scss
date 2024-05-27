@@ -24,7 +24,7 @@
 
     &:after{
             content: "";
-            background: $color-accent-a1;
+            background: lighten($color-accent-a1, 10%);
             position: absolute;
             right: -1px;
             width: 8px;
