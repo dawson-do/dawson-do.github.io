@@ -137,6 +137,10 @@ The most guessed image was a tie between Wonyoung’s scene where she’s jumpin
 
 A recurring theme in the writing process for the last three questions is that I intentionally made it more challenging for myself by imposing additional restrictions after creating the first three. My unassuming "no double-indexing” rule led to omitting the most popular groups or their most popular songs, all for a quiz meant to reflect popular culture. It was surprisingly difficult, but evidently still possible. There is still quite a lot of common ground outside of the most popular groups. For many fans, K-pop is more than just the songs, so I knew it wouldn’t be a comprehensive quiz without also touching on the non-music side, such as idols, memes, and tv shows. It was a challenge to distill all of these parts into a short quiz, but I had fun giving it a shot. I got a lot out of having to research the discographies of groups outside of the most well-known ones. In a time where I personally wasn’t keeping up with K-pop all that much, writing the quiz was a little nostalgic and helped me catch up on recent releases. I rewatched videos I hadn’t seen in a while. I watched a lot of music videos for the first time. I watched a lot of music videos 10+ times when picking out frames. And I watched the Jopping music video over 50 times, according to my Youtube Rewind (I have no shame).
 
+Thanks to Ryan for proofreading/editing.
+
+----
+
 [^1]: <span class="spoiler"> MARK, MAX CHANGMIN, MINHO, SEHUN, SEOHYUN, SEULGI, SEUNGHAN, SHINDONG, SHOO, SHOTARO, SIWON, SOHEE, SOOYOUNG, STEPHANIE, SUHO, SULLI, SUNDAY, SUNGCHAN, SUNGMIN, SUNNY </span>
 [^2]: See the Wikipedia page, [Twice singles discography](https://en.wikipedia.org/wiki/Twice_singles_discography#Korean_singles)
 [^3]: See the Wikipedia page, [List of K-pop songs on the *Billboard* Charts](https://en.wikipedia.org/wiki/List_of_K-pop_songs_on_the_Billboard_charts#Billboard_Hot_100_(Complete))

@@ -8,7 +8,7 @@ I spend a lot of time doing puzzlehunts. These types of puzzles are hard to defi
 Here's a list of my puzzle-related blog posts:
 
 * Bloomberg Bpuzzled [Part 1][bpuzzled-1] & [Part 2][bpuzzled-2]
-* MIT Mystery Hunt [2023](https://www.dawsondo.net/puzzle/2023/01/21/mystery-hunt-2023-recap.html) & [2024](https://www.dawsondo.net/puzzle/2024/02/19/mystery-hunt-2024-recap.html)
+* MIT Mystery Hunt [2023](/puzzle/2023/01/21/mystery-hunt-2023-recap.html) & [2024](/puzzle/2024/02/19/mystery-hunt-2024-recap.html)
 
 During undergraduate, I wrote puzzles for the University of Maryland’s Puzzle Club. I became the project lead starting Fall 2019.
 
@@ -49,7 +49,7 @@ This was my first year as the lead.
 ### [UMD Puzzlehunt 2018: It’s Lit](https://drive.google.com/drive/folders/17BFiIPvTRPqBFKyh74vmUrjn0T8YMXuF)
 
 [puzzle-intro]: https://blog.vero.site/post/puzzlehunts
-[bpuzzled-1]: https://www.dawsondo.net/puzzle/2022/09/07/bpuzzled-recap-p1.html
-[bpuzzled-2]: https://www.dawsondo.net/puzzle/2022/09/07/bpuzzled-recap-p2.html
+[bpuzzled-1]: /puzzle/2022/09/07/bpuzzled-recap-p1.html
+[bpuzzled-2]: /puzzle/2022/09/07/bpuzzled-recap-p2.html
 
 [umdpuzzle]: https://2021.umdpuzzle.club/

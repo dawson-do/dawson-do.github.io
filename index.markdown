@@ -23,4 +23,4 @@ I also frequently check Discord (`@daws_`), but let me know if you have sent me 
 
 ------
 
-<sup>This website is made with Jekyll and hosted on Github Pages. The theme is [custom made](/projects/site-theme) by me!</sup>
+<sup>This website is made with [Jekyll](https://jekyllrb.com/) and hosted on [Github Pages](https://pages.github.com/). The theme is [custom made](/other/2024/05/24/site-theme.html) by me!</sup>

@@ -89,4 +89,6 @@ We ended up getting first, and backsolved all but one remaining puzzle, a duck c
 
 The puzzles we solved were nothing special yet solid, but the meta included some literal red herrings in the form of symbols of fish along with numbers that you actually used to extract. The symbols weren't meant for anything except being red herrings. Although it didn't impede us, I'm not a fan of that choice. At some point afterwards, we also solved Hexorflow, which required reading hex codes as words (using the numbers as letters in various ways). The parsing on this step was a bit tough without hints confirming the step, especially because you needed to concatenate codes together to get some instructions. On the other hand, I think Labyrinth was really memorable, since the main solving didn't rely on typical beginner puzzlehunt tropes. Even though it was rated as the most difficult puzzle, I feel like its barrier to entry was low, which could make it a good puzzle to introduce to people.
 
+Thanks to Ryan for proofreading/editing.
+
 [part-1]: https://www.dawsondo.net/puzzle/2022/09/07/bpuzzled-recap-p1.html

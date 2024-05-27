@@ -84,7 +84,9 @@ I know first hand that running any puzzlehunt takes a ton of passion and effort,
 
 Overall, the hunt was really fun. They fed us a lot of dinner (more pizza plus a buffet), provided us with drinks (alcoholic for those of age), and gave us a tour of the office building. After the event, my team visited the MOMA, caught our train back to Maryland the next day, and anticipated [next year's Bpuzzled events][part-2].
 
-___________________
+Thanks to Ryan for proofreading/editing.
+
+----
 
 [^1]: My team was Duck Gizzards for these events.
 [^2]: During the 2019-2020 year, there was a separate division for EMEA region schools, too.
