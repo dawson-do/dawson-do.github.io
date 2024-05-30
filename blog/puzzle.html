@@ -26,6 +26,12 @@ title: "Category: puzzle"
           {{ post.title | escape }}
         </a>
       </h3>
+      {{ post.excerpt | strip_footnotes }}
+      {% if post.content contains site.excerpt_separator %}
+      <p>
+        <a href="{{ site.baseurl }}{{ post.url | relative_url}}">Read more</a>
+        </p>
+      {% endif %}
     </li>
     {%- endfor -%}
   </ul>
