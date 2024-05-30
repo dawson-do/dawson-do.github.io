@@ -26,7 +26,7 @@ layout: default
           {{ mdate | date: date_format }}
         </time>
       {%- endif -%}
-       • {{ page.content | number_of_words }} words
+       • {{ page.content | number_of_words }} words • <a href="/blog/{{page.categories}}"> {{ page.categories }}</a>
       {%- if page.author -%}
         • {% for author in page.author %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">

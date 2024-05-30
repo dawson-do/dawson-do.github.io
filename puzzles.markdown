@@ -5,10 +5,7 @@ permalink: /puzzles/
 ---
 I spend a lot of time doing puzzlehunts. These types of puzzles are hard to define, but a common thread is that they don't come with clear instructions. You are presented *something* and need to figure out how to solve it, typically resulting in an English word or phrase. [This post][puzzle-intro] gives a much better introduction than I can.
 
-Here's a list of my puzzle-related blog posts:
-
-* Bloomberg Bpuzzled [Part 1][bpuzzled-1] & [Part 2][bpuzzled-2]
-* MIT Mystery Hunt [2023](/puzzle/2023/01/21/mystery-hunt-2023-recap.html) & [2024](/puzzle/2024/02/19/mystery-hunt-2024-recap.html)
+Here are my [puzzle-related blog posts](/blog/puzzle).
 
 During undergraduate, I wrote puzzles for the University of Maryland’s Puzzle Club. I became the project lead starting Fall 2019.
 
@@ -49,7 +46,4 @@ This was my first year as the lead.
 ### [UMD Puzzlehunt 2018: It’s Lit](https://drive.google.com/drive/folders/17BFiIPvTRPqBFKyh74vmUrjn0T8YMXuF)
 
 [puzzle-intro]: https://blog.vero.site/post/puzzlehunts
-[bpuzzled-1]: /puzzle/2022/09/07/bpuzzled-recap-p1.html
-[bpuzzled-2]: /puzzle/2022/09/07/bpuzzled-recap-p2.html
-
 [umdpuzzle]: https://2021.umdpuzzle.club/

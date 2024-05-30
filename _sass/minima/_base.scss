@@ -211,6 +211,7 @@ pre {
  */
 .wrapper {
   max-width: calc(#{$content-width} - (#{$spacing-unit}));
+  width: 100%;
   margin-right: auto;
   margin-left: auto;
   padding-right: $spacing-unit / 2;

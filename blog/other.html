@@ -1,0 +1,33 @@
+---
+layout: default
+title: "Category: other"
+---
+
+<div class="home">
+  {%- if page.title -%}
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <p>
+    {%- for category in site.categories -%}
+      <a href="/blog/{{category[0]}}"> {{ category[0] | escape }}</a> •
+    {%- endfor -%}
+      <a href="/blog/{{category[0]}}"> all posts</a>
+    </p>
+  </header>
+  {%- endif -%}
+
+  <ul class="post-list">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {%- for post in site.categories.other -%}
+    <li>
+      <span class="post-meta">{{ post.date | date: date_format }} • {{ post.content | number_of_words }} words • <a href="/blog/{{post.categories}}"> {{ post.categories }}</a></span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+    </li>
+    {%- endfor -%}
+  </ul>
+
+</div>
