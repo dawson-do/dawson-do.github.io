@@ -93,7 +93,7 @@ What surprised me the most was that “POP!” by Nayeon was the least obscure s
 
 > Each image is the left half and right half of two different albums that form a portmanteau with each other. (i.e. The end of the first answer is identical to the start of the second answer). Portmanteaux must overlap at least 2 letters. The first and last letters, as well as the enumeration, have been given to you.
 
-![Q6: Idols from screenshots](/assets/images/kpoppointless/q5.png)
+![Q5: Album portmanteau](/assets/images/kpoppointless/q5.png)
 
 *List of all correct answers[^5]*
 
