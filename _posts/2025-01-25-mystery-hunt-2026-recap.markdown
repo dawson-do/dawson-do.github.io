@@ -21,6 +21,10 @@ This was my seventh Mystery Hunt and my usual hunting friends decided to join up
 
 <!--excerpt-->
 
+I decided to write a bit more about the non-puzzle stuff (mainly food) this year.
+
+Like last year, I got to Boston Wednesday night as tickets were cheaper. Angel didn't feel like coming this this year, so it was just me at Grant's palce until Thursday, when Ryan would be showing up. That night, Grant and I went to Northeast Eating Club (Good!), where I ate a ton since I hadn't yet eaten that day. Other than doing a small bit of work on Thursday, my only responsibility was to let Ryan into Grant's apartment, since Grant had to go to attend a meeting. At around lunch time, I went to pick up a sandwich and a bag of chips at Cutty's (Good!) and returned to Grant's. When Ryan got there, Grant was already on his way back, so we took a walk to Trader Joe's to pick up snacks for the team. I was curious about the hot honey popcorn so we got that, along with potato chips and three boxes of cereal. The cashier warned us that the popcorn was kind of spicy, but it really wasn't at all. It was still good though. Drew was supposed to meet us for dinner at Noah's Kitchen (Good!), but he got stuck in traffic getting out of the airport pickup, so dinner was just Ryan, Grant and me. We ended up order cumin lamb, garlic noodles, and chili chicken, which all ended up being pretty actually spicy. 
+
 ### Contributions
 
 Roughly chronologically, these were all of my contributions I remember:
@@ -49,6 +53,7 @@ When we got back to the room, other teammates had already started looking at the
 
 **Railway Terminal:** I think Grant figured out what exactly to do in this puzzle, so he, Ryan and I filled out the rest of the information in the puzzle. We got from the cluephrase to the final answer pretty smoothly, too.
 
+For Friday dinner, I group ordered Cava (Good!), which is a chain we don't have in the Bay that I really like. It may end up being a personal hunt tradition for me. 
 #### Saturday
 
 **Let Her Cook(book)!:** I woke up and decided to look at some of the metas. I spotted the connection to Salt Fat Acid Heat, but it took a while to fully figure out that we wanted two words for each component. We ended up only needing 4 answers to solve this meta, and I was able to guess the answer from ??RE?AZ?.
@@ -67,6 +72,7 @@ When we got back to the room, other teammates had already started looking at the
 
 **Hear Me Out:** We finally unlocked the Characters banner and I mostly helped other people fill out the data. By this time, it was pretty late so I didn't contribute much more to the banner. By the time I woke up, the entire round was solved.
 
+For dinner, we got Beantown Taqueria (Good!). We have plenty of Mexican food in the Bay, so I think I just picked it because it was nearby.
 #### Sunday
 
 **Chart Your Course:** Our remote solvers made tons of progress Saturday night, so when I woke up on Sunday, there were mostly metas and puzzles from the Glitch round left. I decided to look at Chart Your Course, which had some work started in it, but looked abandoned. Our team never noticed the titles of the puzzles being relevant, so I spent most of my morning trying to finesse the answers/buildings to clues that would plausibly work. I ended up getting the phrase to end with -FUL, as well as some other letters (even though it turns out I had the wrong building for the last clue). When more solvers came to look at the puzzle, we ended up getting some more letters and throwing in a couple guesses to finally solve the puzzle.
@@ -77,8 +83,12 @@ When we got back to the room, other teammates had already started looking at the
 
 **snalC ehT tcennoC** and **To the Edge:** At this point, the hunt width was 1 so there wasn't anything to do but look at the Glitch meta. I can't say I contributed much to the actual solving, really. Once this was solved, we got to schedule the final runaround. During the first part of the runaround in the tunnels and conference room, I solved some of the minipuzzles, but once it got down to the final part, Ryan, Drew and I (and eventually Tom) let the most enthusiastic people on the team do most of the work. It was pretty hard to get everyone involved on the final puzzle without tons of cross-talk, so it was the right call to let Grant take the lead on it in my opinion. We ended up completing the runaround at 7:44, which was great, as we still had time to get dinner afterwards.
 
+Grant, Ryan, Tom, Drew and I ended up at Area Four (Good!), a pizza place that happened to still be open. 
+
 ### Final Thoughts
 
 Overall, it was a great year! We finished the runaround, which is a new personal best for my friends and I, so there's really nothing else I could ask for. This year, I spent a lot more time on capstone puzzles and metas. For many of the capstone puzzles, I started looking at the MonArch entries before the capstone had even unlocked, which I think was helpful both organizationally (I pre-filled the sheets with MonArch information) and for solving. I never really felt like I had a slump period this year, and I even took quite a few breaks and paced myself. Given that I took care of our group's dinner orders and picked them up for us, I'd say I still was pretty productive.
 
 My favorite round that I worked on was definitely Fate's Thread Casino, as it had the art history puzzle and I also liked solving the Charts. Unfortunately I basically did not touch the MonQuest at all, since it was mostly used for unlocking puzzles, so I wish there were puzzles (other than the Glitch meta) that made you interact with the MonQuest. Other than that, I really enjoyed my experience this year. All of the puzzles I did were very well-edited and clean, and the dimension rounds definitely had the wow-factor of MITMH. I'm pretty happy the unlock system returned, and I think it definitely improves hunt experience. It felt a little bad to have abandoned puzzles in rounds where we finished the capstone (not knowing about the meta-matching structure). I'm not sure how the abandoned puzzles affected capstone unlocks in different rounds so we felt a bit constrained on width at points, but I think it was okay in the end.
+
+And one last story: we (Ryan, Grant and I) typically want to take home some souvenir from hunt, but the only thing that particularly spoke to us this time was Puzzmon: the Card Game. I even told Ryan that I might have even paid $50 for it. Since another team member ended up claiming the team copy, we planned to ask at the merch table if they were for sale during wrap-up, since Ryan had seen plenty of copies when he went to the tournament. Unfortunately, they weren't at the time so after wrap-up+lunch, we went back to Grant's place somewhat unfulfilled. My flight was scheduled to leave at 6, so I packed my stuff and waited around when Cardinality suddenlty sent out the email that extra copies of Puzzmon TCG were going on sale back at campus, first come first served. Grant called an Uber and the three of us all rushed back to campus (I brought my suitcase because I would probably leave from campus at that point). We reached out to Drew, who was staying at Kendall, to see if he could secure us some copies, but unbeknownst to us, Drew and Matt had already headed to campus planning to pick up copies for all of us. When we got there Drew handed them off to us, and we were evean able to pick up a copy for Sam. So it turns out that Cardinality had one last surprise for us, but nonetheless I'm glad I got my copy of the card game. Anyways, my flight ended up being delayed 4 hours so at least I didn't also have to rush to the airport, too. 
